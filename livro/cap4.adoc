@@ -127,16 +127,16 @@ indústrias de papel e celulose, borracha, etc.).
 Destacam-se três tipos principais de poluição: efluente doméstico,
 industrial e agrícola.
 
-- O efluente doméstico (esgoto urbano) é responsável por grandes
+O efluente doméstico (esgoto urbano):: é responsável por grandes
 desequilíbrios ecológicos, além de provocar inúmeras doenças infecciosas.
 
-- O efluente industrial é responsável por uma variedade de poluentes por
+O efluente industrial:: é responsável por uma variedade de poluentes por
 existir diversos tipos de indústrias. Exemplo: destilarias, conservas, mineração
 metalúrgica, laticínios, farmacêuticas etc., que prejudicam pela toxidez de seus
 efluentes, como por exemplo, os despejos do mercúrio encontrado em alguns
 rios do Brasil.
 
-- O efluente agrícola praticamente causa os mesmos efeitos vistos
+O efluente agrícola:: praticamente causa os mesmos efeitos vistos
 anteriormente, com uma diferença, que estes são os maiores responsáveis pela
 “eutrofização” dos corpos, por causa do carreamento de substâncias usadas na
 agricultura (adubos, pesticidas, herbicidas, ricos em nutrientes), para os cursos
