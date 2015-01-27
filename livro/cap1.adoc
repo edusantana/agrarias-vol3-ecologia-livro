@@ -149,7 +149,7 @@ de 15km, constituindo uma capa muito fina em torno do planeta de quase 13.000
 km de diâmetro.
 
 .Biosfera
-image::{img}/fig2.jpg[]
+image::{img}/fig2.jpg[scaledwidth="50%"]
 
 === Divisão da Biosfera
 

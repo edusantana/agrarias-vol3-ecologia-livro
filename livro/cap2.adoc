@@ -93,7 +93,7 @@ ambiente povoado por seres vivos e o conjunto de seres vivos que povoam esse
 ambiente, interagindo.
 
 .Ecossistema
-image::{img}/fig3.jpg[]
+image::{img}/fig3.jpg[scaledwidth="40%"]
 
 Biótopo:: está formado pela área, mais ou menos delimitada, que contém os
 recursos suficientes para assegurar a conservação da vida nela existente.
@@ -187,7 +187,7 @@ expressa por: a) número, b) massa (biomassa) e energia. Dos três tipos
 mencionados o mais importante é a pirâmide de energia.
 
 .Pirâmide Alimentar
-image::{img}/fig5.jpg[]
+image::{img}/fig5.jpg[scaledwidth="50%"]
 
 Exemplo de uma pirâmide alimentar de uma comunidade que tem como
 produtor uma plantação de alfafa que vai servir, teoricamente, de alimento único
@@ -197,21 +197,18 @@ durante um ano.
 === Pirâmide de Número
 
 .Pirâmide de Número
-image::{img}/fig6.pdf[]
+image::{img}/fig6.pdf[scaledwidth="50%"]
 
 === Pirâmide de Biomassa
 
 .Pirâmide de Número
-image::{img}/fig7.pdf[]
+image::{img}/fig7.pdf[scaledwidth="50%"]
 
 
 === Pirâmide de Energia
 
 É um exemplo onde verdadeiramente temos uma posição real da
 situação.
-
-.Pirâmide de Energia
-image::{img}/fig8.jpg[]
 
 Cada nível trófico é representado por um retângulo cujo comprimento é
 proporcional à quantidade de energia acumulada por unidade de tempo e por
@@ -220,6 +217,9 @@ de um triângulo com ponta voltada para cima em razão das perdas de energia,
 quando há passagem de um nível para outro, o que é conseqüência das leis da
 termodinâmica e, também, pelo fato de cada organismo também consumir parte
 da energia.
+
+.Pirâmide de Energia
+image::{img}/fig8.jpg[scaledwidth="60%"]
 
 Na cadeia alimentar é sempre o produtor que apresenta um maior nível
 energético, à medida que se afasta do produtor, o nível energético vai
