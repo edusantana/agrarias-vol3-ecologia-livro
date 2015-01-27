@@ -128,7 +128,7 @@ degradadas, no reflorestamento e regularização ambiental da Amazônia (O
 GLOBO, 2008).
 
 .Plano de recuperação de áreas degradadas
-image::{img}/fig18.jpg[]
+image::{img}/fig18.jpg[scaledwidth="40%"]
 
 === Impacto Ambiental
 
@@ -204,10 +204,10 @@ unidades industriais, exploração de madeira, projetos agropecuários acima de
 Federal, para os Municípios com mais de 20 mil habitantes.
 
 .Estudo do impacto ambiental
-image::{img}/fig19.jpg[]
+image::{img}/fig19.jpg[scaledwidth="35%"]
 
 .Licenciamento ambiental
-image::{img}/fig20.jpg[]
+image::{img}/fig20.jpg[scaledwidth="35%"]
 
 
 === Desenvolvimento Sustentável
