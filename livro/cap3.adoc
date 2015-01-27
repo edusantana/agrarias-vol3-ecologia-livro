@@ -1,168 +1,288 @@
-== Novo capítulo
+== CICLOS BIOGEOQUÍMICOS
 
 :cap: cap3
 :img: images/{cap}
 :online: {gitrepo}/blob/master/livro/code/{cap}
 :local: code/{cap}
 
-.Objetivos do capítulo
-____
-Ao final deste capítulo você deverá ser capaz de:
+Os ciclos das matérias em na natureza são:
 
-1.  *Lembrar* as três hipóteses de previsão e listar os padrões típicos
-de comportamento de dados históricos, *reproduzindo-os* na realização de
-exercícios teóricos, envolvendo os nomes das técnicas de previsão mais
-utilizadas em processos estacionários, com tendência e com
-sazonalidade.
+Biológicos::- porque todas as transformações se sucedem por meio dos seres
+vivos ou com a participação destes.
 
-2.  *Entender*  as  diferenças  entre  as  técnicas existentes,
-*comparando* cada uma com as diferentes hipóteses e padrão de dados.
+Químicos:: porque são ciclos dos elementos químicos e se verificam sempre,
+por meio de sucessivas reações químicas.
 
-3.  *Escolher* e aplicar, de forma consciente, uma das técnicas,
-*implementando* um programa específico ou utilizando um aplicativo
-disponível  no mercado.
+Geológicas:: porque a origem de todos os elementos está ligada à composição
+básica da superfície do globo terrestre.
 
-4.  *Analisar*  as  diferentes  medidas  de  erro, *diferenciando-as*,
-*atribuindo* significados de importância e *entendendo* em quais
-circunstâncias  cada uma delas é mais adequada.
+Por estas três características é que tais ciclos de elementos na biosfera
+são denominados biogeoquímicos.
 
-5.  *Avaliar* os resultados obtidos por meio do emprego da técnica de
-previsão, *estimando* o impacto da acuracidade e das incertezas
-associadas a todo o processo.
+=== Ciclo da Água
 
-____
+A água é o recurso principal do Planeta, porque é parte na composição
+dos seres vivos, tanto pela participação na maioria das reações vitais dos
+organismos, como também, pelo espaço que ocupa. Existem organismos, como
+a medusa, que possui 95% de seu peso total em água, já o homem possui 65%.
 
-[cols="^13,^10,^10,^10,^10,^10,^10", grid="cols",frame="none"]
-|====
-1.2+s| Conhecimento 6+s| Processo Cognitivo
-| Lembrar         |Entender  | Aplicar |  Analisar | Avaliar | Criar
-| Factual  |Objetivo 1|||||
-| Conceitual |Objetivo 2|Objetivo 3||||
-| Procedural |||Objetivo 4|||
-| Metacognitivo ||||||Objetivo 5
-|  2+s|Conhecimento 2+s|Competência 2+s|Habilidade
-|====
+A quantidade de água existente no Planeta está estimada em 1.007.000.000 km3. 
+Deste valor total, apenas 0,63% aproximadamente é água
+potável, distribuída no Planeta sob a forma de fontes, riachos, rios, lagos e lençol
+freático. O restante está sob a forma de geleiras (2,15%), mares e oceanos
+(97,2%).
 
-A *elaboração dos objetivos de aprendizagem* e *divisão das seções* do
-capítulo seguem a taxonomia de Bloom revisada, para
-compreender esta classificação recomendo a leitura de  ``Taxonomia de
-Bloom: revisão teórica e apresentação das adequações do instrumento
-para definição de objetivos instrucionai'', disponível em
-http://www.scielo.br/pdf/gp/v17n2/a15v17n2.pdf.
-
-.Dimensão do conhecimento da Taxonomia de Bloom revisada
-image::{img}/bloom.eps[]
+Em geral, o ciclo da água consiste na evaporação, formação de nuvens,
+sua condensação e a precipitação em forma de chuva, granizo ou neve.
 
 
-=== Terminologia
+.Ciclo da Água
+image::{img}/fig9.jpg[]
 
-Conhecimento Efetivo/Factual:: Relacionado ao conteúdo básico que 
-o discente deve dominar a fim de que consiga realizar e resolver 
-problemas apoiados nesse conhecimento. Relacionado aos fatos que 
-não precisam ser entendidos ou combinados, apenas reproduzidos 
-como apresentados.
+A água no contexto biogeoquímico transporta substâncias minerais e
+orgânicas livres combinadas, ou em suspensão, além de gases dissolvidos que
+abastecem os biótipos e alimentam do princípio ao fim de toda a cadeia trófica.
+Segundo Branco (1991), alguns valores podem ser importantes nos
+seguintes aspectos:
 
-- Conhecimento da Terminologia; 
+Estéticos Que são a turbidez, a cor, o odor e sabor. Estas características
+são indicadores de qualidade da água, que afetam principalmente os seres
+humanos e, também, é usada para outros fins.
 
-=== Detalhes e elementos específicos
+Fisiológicos Que são a salinidade, toxicidade e patogenicidade, que
+afeta a saúde dos que bebem, principalmente os humanos.
 
-Conhecimento Efetivo/Factual:: Relacionado ao conteúdo básico que 
-o discente deve dominar a fim de que consiga realizar e resolver 
-problemas apoiados nesse conhecimento. Relacionado aos fatos que 
-não precisam ser entendidos ou combinados, apenas reproduzidos 
-como apresentados.
+Ecológicos Que são o pH, o oxigênio dissolvido e a produtividade.
+Estes aspectos são os que protegem e favorecem a reprodução da vida na
+água.
 
-- Conhecimento de detalhes e elementos específicos.
+=== Ciclo do Carbono
 
-=== Classificação e categorização
+O elemento químico do carbono é o mais característico e importante na
+formação dos compostos orgânicos. Estes compostos na verdade são as
+substâncias principais que fazem parte da estruturação dos seres vivos e que
+junto com o elemento água, são fundamentais nas funções nos diversos seres
+vivos.
 
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
+É necessário esclarecer que a única fonte de carbono utilizável pelos
+seres vivos é o CO~2~ atmosférico ou dissolvido na água. Este carbono é muito
+importante para as plantas, porque participa da fotossíntese e quimiossíntese,
+para sintetizar as sustâncias orgânicas formando, primeiramente, os
+carboidratos e depois outros produtos mais complexos.
 
-- Conhecimento de classificação e categorização; 
+Estudos mostram que a quantidade de carbono na biosfera se encontra
+em uma forma estável, porque as quantidades consumidas é imediatamente
+resposta pela respiração, como também pela queima e apodrecimento da
+matéria orgânica.
 
-=== Princípios e generalizações
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
+Na atualidade, existe um teor de dióxido de carbono no ar devido à
+queima de combustíveis fósseis (petróleo ou carvão), também pela respiração
+dos seres vivos ou queima e apodrecimento da matéria orgânica. Atualmente os
+valores de CO~2~ são muito altos e estão causando uma elevação da
+temperatura, cujo fenômeno é denominado Efeito Estufa.
 
-- Conhecimento de princípios e generalizações; 
+.Ciclo do Carbono
+image::{img}/fig10.jpg[]
+
+=== Ciclo do Oxigênio
+
+O oxigênio é um elemento muito importante para os seres vivos nos
+processos para a obtenção de energia através da respiração como elemento
+comburente. A principal fonte de oxigênio está no ar atmosférico, onde se
+encontra em uma proporção de 21%.
+
+As plantas fixam o O~2~ do ar, que entra pelos estômatos, lenticela,
+glândulas, e participam da respiração em nível, onde o açúcar é queimado para
+produzir energia, CO~2~ e H~2~O; a retirada de O~2~ do ar pelas plantas é para 
+substituir a deficiência, quando aquele proveniente da fotossíntese não for 
+suficiente. Os animais também retiram O~2~ da atmosfera, por meio de seus 
+pulmões, branquiais ou cutâneos, fixando pela respiração e liberando também
+CO~2~ e H~2~O.
+
+A substituição do O2 utilizado é através das plantas em pequenas
+quantidades, é quando a produção dos açúcares através da fotossíntese for
+maior que os queimados na respiração. De imediato, a principal fonte de
+reposição do O2 atmosférico gasto na respiração dos seres vivos e por outros
+diversos tipos de combustão da matéria orgânica é a hidrólise da água, que
+ocorre nas regiões altas da atmosfera, que é realizada pela ação da radiação
+ultravioleta de grande energia. Vários autores argumentam que o inicial do O2
+atmosférico foi surgindo dos seres vivos do planeta. Também é necessário
+destacar que a complexidade do ciclo do O2, por causa de múltiplas
+combinações que ele pode realizar forma muitos epiciclos.
+
+.Ciclo do Oxigênio
+image::{img}/fig11.jpg[]
+
+=== Ciclo do Nitrogênio
+
+O elemento nitrogênio é importante na participação da composição das
+proteínas e representam aproximadamente 16% do corpo humano. O elemento
+do nitrogênio contribui com aproximadamente 75% da composição do ar
+atmosférico e são poucos os organismos que conseguem fixá-lo.
 
 
-=== Teorias, modelos e estruturas
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
+O nitrogênio que se encontra no ar pode ser retirado pelas bactérias do
+gênero _Nitrobacter_ e _Rhizobium_, que vivem geralmente em mutualismo com o
+grupo das fanerógamas da família Leguminosae, ou ainda pelas algas azuis
+(_Cyanophyta_), com as espécies pertencentes ao gênero _Nostoc_.
 
-- Conhecimento de teorias, modelos e estruturas.
+O elemento nitrogênio orgânico que existe no húmus é liberado pela
+ação dos microorganismos decompositores (bactérias e fungos), que realizam o
+processo da amonização, liberando finalmente amônia (NH~3~ ). A amônia é
+utilizada pelas bactérias (Nitrosomas), que em sua respiração a oxidam,
+produzindo nitrito (NO~2~ ). Este processo se conhece com o nome de nitrosação:
 
-=== Conteúdos específicos, habilidades e algoritmos
-Conhecimento Procedural:: relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
+****
+2NH~3~ + 3O~2~ Nitrosomonas -> 2HNO~2~ + 2H~2~ + Energia
+****
 
-- Conhecimento de conteúdos específicos, habilidades e algoritmos; 
+As bactérias que pertencem ao gênero Nitrobacter utilizam o nitrito para
+sua respiração, depois é oxidado e transformado em nitrato (NO~3~ ). Este produto
+chamado nitrato dissolvido na água permanece no solo, podendo ser absorvido
+no reino vegetal, onde é armazenado e para poder passar ao reino animal se dá
+através dos herbívoros.
 
-=== Técnicas específicas e métodos
-Conhecimento Procedural:: Relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
+.Ciclo do Nitrogênio
+image::{img}/fig12.jpg[]
 
-- Conhecimento de técnicas específicas e métodos; 
+=== Ciclo do Fósforo
 
-=== Critérios e percepção de como e quando usar um procedimento específico.
-Conhecimento Procedural:: Relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
+O fósforo é liberado pela decomposição de compostos orgânicos sob a
+forma de fosfatos, que pode ser utilizado pelos vegetais. O fósforo se encontra
+nas rochas e outras formações que remontam às Eras geológicas. A
+decomposição das rochas pelo intemperismo e a erosão liberam,
+gradativamente, os fosfatos que entram nos ecossistemas. Grande parte do
+fósforo é arrastada pelas águas das chuvas que vai até os mares e oceanos,
+onde se perde nos sedimentos mais profundos. Este elemento é retirado dos
+mares através da pesca marinha, o que na realidade é muito mais intensa no
+retorno do ciclo. Assim, os resíduos voltam ao solo, e o ciclo é realizado por meio
+de sua retirada do solo pelos vegetais, que os transfere às cadeias biológicas,
+fechando assim o ciclo.
 
-- Conhecimento de critérios e percepção de como e quando usar um procedimento específico.
+.Ciclo do Fósforo
+image::{img}/fig13.jpg[]
 
-=== Conhecimento estratégico
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
 
-- Conhecimento estratégico; 
+=== Classificação dos Fatores Ecológicos
 
-=== Contextos preferenciais e situações de aprendizagem (estilos)
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
+De forma clássica pode-se distinguir na ecologia os fatores abióticos e os
+fatores bióticos.
 
-- Conhecimento sobre atividades cognitivas  incluindo contextos preferenciais e situações de aprendizagem (estilos); 
+==== Fatores Bióticos
 
-=== Autoconhecimento
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
+*Biótico* (bio = vida). Na ecologia chamam-se fatores bióticos a todos os
+elementos causados pelos organismos em um ecossistema, que condicionam
+as populações que o formam. Exemplo: a existência de uma espécie em um
+número suficiente para assegurar a alimentação de outra, condiciona a
+existência e a saúde desta última. Muitos dos fatores bióticos podem traduzir-se
+nas relações ecológicas que se podem observar num ecossistema, tais como a
+predação, o parasitismo, etc.
 
-- Autoconhecimento
+Os fatores bióticos estão formados pelos seguintes grupos de organismos:
 
-=== Recapitulando
+- produtores;
+- microconsumidores e
+- macroconsumidores.
 
-Revisão do que foi aprendido. Não apresentar nada novo.
+Existem os seguintes exemplos de fatores bióticos: neutralismo,
+competição, mutualismo, cooperação, comensalismo, amensalismo,
+parasitismo e predação.
+
+==== Fatores Abióticos
+
+*Abiótico* (A = não, bio = vida).Em ecologia, denominam-se fatores
+abióticos a todas as influências que os seres vivos possam receber em um
+ecossistema, derivados de aspectos físicos, químicos do meio ambiente, tais
+como a luz, a temperatura, o vento etc.
+
+
+Os fatores abióticos podem-se dividir em:
+
+1. Fatores climáticos: temperatura, umidade relativa do ar, luz, precipitação
+pluviométrica, ventos, gases etc.
+
+2. Fatores edáficos: características físicas e químicas do solo, pH do solo,
+geologia do solo e fisiografia.
+
+3. Fatores aquáticos: tensão superficial, temperatura, produtos dissolvido na
+água, sais minerais e suspensão.
+
+===  Ecossistema
+
+Em 1934, foi proposto o conceito de ecossistema pelo inglês Tansley.
+Esta idéia de ecossistema já existia e muitas pessoas haviam pensado em
+alguns aspectos de conceito, tal como foi definido por Tansley.
+Na atualidade, é sabido que todas as formas de vida existentes, desde
+as mais simples às mais complexas, não existem isoladamente na natureza,
+elas se relacionam vivendo em uma perfeita interdependência. Considerando
+como base esta interação, pode-se dizer que os seres mais evoluídos
+dependem dos mais simples, que completam para eles o ciclo dinâmico da
+subsistência.
+
+Todos os seres vivos produzem suas células, tecidos, órgãos, se
+reproduzem e conservam seu próprio organismo. Mas ele não pode,
+isoladamente, realizar todas as transformações de que necessita para um
+determinado fim. De tal maneira, todos os seres vivos na natureza estão
+engajados num sistema, no qual cada um contribui com sua capacidade e supre
+as necessidades energéticas de cada membro do sistema, resultando, deste
+modo, num ciclo muito econômico em que o subproduto de um dos elementos é
+matéria prima para outros.
+
+.Preservação ambiental
+image::{img}/fig14.jpg[]
+
+Naqueles tempos já se conhecia a interdependência dos seres vivos,
+porque nenhum ser pode viver sozinho, desta maneira, o mérito de Tansley foi a
+de sistematizar este conceito e dar a seguinte definição: “O ecossistema é um
+conjunto de seres vivos mutuamente dependentes uns dos outros e do meio
+ambiente no qual eles vivem”. Deste modo, ficou estabelecida a definição de
+Tansley, que dois componentes básicos de um ecossistema são um ambiente
+povoado por seres vivos e o conjunto de seres vivos que povoam esse
+ambiente, interagindo.
+
+O ambiente que é o componente físico do ecossistema leva o nome de
+Biótopo (derivado do grego, bios = vida e topos = lugar).
+
+O conjunto de seres vivos tem o nome de Biocenose (derivado do grego,
+bios = vida e koinos = conjunto)
+
+****
+ECOSSISTEMA = BIÓTOPO + BIOCENOSE
+****
+
+==== Característica
+
+Uma característica fundamental nos ecossistemas é a continuidade.
+Uns ecossistemas ligam-se aos outros ecossistemas vizinhos. Um ecossistema
+florestal liga-se a um rio e este se mistura gradualmente ao mar, assim todos os
+ecossistemas da Terra ligam-se entre si. Tem-se, portanto, um grande
+ecossistema mundial que é a biosfera.
+
+=== 8. Agroecossistema
+
+De acordo com Hart (1980), os agroecossistemas, de um modo geral,
+são parcelas de terra onde se realizam as atividades de produção agropecuária.
+Compreendem os cultivos, os animais, o solo, as ervas daninhas, as doenças e
+as pragas.
+
+.Agroecossistema vegetal
+image::{img}/fig15.jpg[]
+
+
+==== Características
+São quatro as características: produtividade, estabilidade,
+sustentabilidade, equidade e autonomia.
+
+A produtividade:: é determinada pelo produto obtido por unidade de área.
+
+A estabilidade:: refere-se à manutenção da produtividade considerando os
+eventos não-controláveis que poderiam ocorrer.
+
+A sustentabilidade:: é a capacidade de um agroecossistema manter sua
+produtividade quando exposta a um grande distúrbio.
+
+A equidade:: é outra característica que se refere à distribuição da produtividade
+dos agroecossistemas.
+
+A autonomia:: é considerada como a capacidade do agroecossistema manter-se
+ao longo dos anos independente das oscilações externas.

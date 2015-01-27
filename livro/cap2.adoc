@@ -242,3 +242,4 @@ energético, à medida que se afasta do produtor, o nível energético vai
 diminuindo. Podemos constatar que a energia apresenta sempre o mesmo
 sentido, daí dizer-se que “a energia apresenta sempre um movimento
 unidirecional”.
+

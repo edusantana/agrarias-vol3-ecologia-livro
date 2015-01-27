@@ -1,168 +1,180 @@
-== Novo capítulo
+== EFEITOS DA TECNOLOGIA SOBRE O EQUILÍBRIO ECOLÓGICO
 
 :cap: cap4
 :img: images/{cap}
 :online: {gitrepo}/blob/master/livro/code/{cap}
 :local: code/{cap}
 
-.Objetivos do capítulo
-____
-Ao final deste capítulo você deverá ser capaz de:
+Na atualidade, o modelo de desenvolvimento social e econômico que se
+pratica no mundo é caracterizado como um sistema de grande exploração de
+recursos naturais, trazendo como conseqüência, uma forte degradação
+ambiental em todo o planeta Terra.
 
-1.  *Lembrar* as três hipóteses de previsão e listar os padrões típicos
-de comportamento de dados históricos, *reproduzindo-os* na realização de
-exercícios teóricos, envolvendo os nomes das técnicas de previsão mais
-utilizadas em processos estacionários, com tendência e com
-sazonalidade.
+Segundo Oliveira et al, (2004), nos últimos 12 anos, o mundo vem
+atravessando um período no qual se verificam grandes impactos ambientais nos
+ecossistemas terrestres, embora, neste mesmo período, tenha ocorrido
+avanços consistentes como, por exemplo, a redução da emissão de CFCs,
+proibição do uso de 12 produtos químicos e o aumento na utilização de
+reciclagem. Apesar disto, tem-se constatado a existência de uma degradação
+ambiental ascendente, segundo informações de algumas ONGs, tais como o
+Instituto Worldwatch:
 
-2.  *Entender*  as  diferenças  entre  as  técnicas existentes,
-*comparando* cada uma com as diferentes hipóteses e padrão de dados.
+- Degradação dos recifes de corais de 10% para 27%;
+- A emissão de gás carbônico (CO2) cresceu 18% somente nos USA,
+que é o dobro do resto do mundo;
+- Pessoas abaixo do nível de pobreza supera de 1,2 bilhões;
+- Baixa capacidade da ONU sobre o meio ambiente, porque atende
+somente 100 milhões de pessoas por ano;
+- Aumentou o número de casos em 10 vezes a morte por AIDS;
+- Nos últimos 100 anos desapareceu aproximadamente 12,5% de
+pássaros, 25% de mamíferos e 34% de peixes;
+- Alto incremento das taxas de gases poluentes na atmosfera;
+- Aumento da temperatura na terra, que pode ocasionar:
+- Diminuição de espécies vegetais no Planeta;
+- Aumento de enchentes e secas em regiões, onde antes não aconteciam estes
+fenômenos;
+- Aumento do volume dos mares, que causaria inundações das terras de baixa
+altitude;
+- Diminuição de água disponível para os diferentes usos do homem.
 
-3.  *Escolher* e aplicar, de forma consciente, uma das técnicas,
-*implementando* um programa específico ou utilizando um aplicativo
-disponível  no mercado.
-
-4.  *Analisar*  as  diferentes  medidas  de  erro, *diferenciando-as*,
-*atribuindo* significados de importância e *entendendo* em quais
-circunstâncias  cada uma delas é mais adequada.
-
-5.  *Avaliar* os resultados obtidos por meio do emprego da técnica de
-previsão, *estimando* o impacto da acuracidade e das incertezas
-associadas a todo o processo.
-
-____
-
-[cols="^13,^10,^10,^10,^10,^10,^10", grid="cols",frame="none"]
-|====
-1.2+s| Conhecimento 6+s| Processo Cognitivo
-| Lembrar         |Entender  | Aplicar |  Analisar | Avaliar | Criar
-| Factual  |Objetivo 1|||||
-| Conceitual |Objetivo 2|Objetivo 3||||
-| Procedural |||Objetivo 4|||
-| Metacognitivo ||||||Objetivo 5
-|  2+s|Conhecimento 2+s|Competência 2+s|Habilidade
-|====
-
-A *elaboração dos objetivos de aprendizagem* e *divisão das seções* do
-capítulo seguem a taxonomia de Bloom revisada, para
-compreender esta classificação recomendo a leitura de  ``Taxonomia de
-Bloom: revisão teórica e apresentação das adequações do instrumento
-para definição de objetivos instrucionai'', disponível em
-http://www.scielo.br/pdf/gp/v17n2/a15v17n2.pdf.
-
-.Dimensão do conhecimento da Taxonomia de Bloom revisada
-image::{img}/bloom.eps[]
+Existem outras situações muito preocupantes sobre a degradação
+ambiental, tais como:
+- Escassez de água potável na atualidade para 2 bilhões de pessoas e,
+se continuar neste ritmo, em 25 anos, a previsão pode atingir 4 bilhões;
+- 3 milhões de pessoas estão morrendo anualmente pela poluição do ar;
+- 30 bilhões de toneladas de lixo são jogados por ano no meio ambiente;
+- São produzidos 80 milhões de toneladas de plástico por ano, material
+de difícil decomposição; há 50 anos a produção atingia 5 milhões de
+toneladas;
+- Apenas no Brasil existem 100 milhões de pneus jogados na natureza
+(TEICH, 2002).
 
 
-=== Terminologia
+Constatados os fatos da degradação ambiental, observa-se que a
+situação mundial é muito crítica e preocupante do ponto de vista ambiental.
+Frente a esta problemática, existem discussões sobre o meio ambiente, nos
+diferentes níveis sociais, em universidades, governos, setores industriais e
+econômicos, nas escolas, em grupos de pessoas, na TV e na Internet, são
+verificados em toda parte.
 
-Conhecimento Efetivo/Factual:: Relacionado ao conteúdo básico que 
-o discente deve dominar a fim de que consiga realizar e resolver 
-problemas apoiados nesse conhecimento. Relacionado aos fatos que 
-não precisam ser entendidos ou combinados, apenas reproduzidos 
-como apresentados.
+Considerando o que foi sintetizado até aqui, pode-se perceber que a
+intervenção do homem na natureza é por força do modelo econômico adotado a
+partir das descobertas científicas e da implantação de sistemas de produção
+capitalista, e isto cresceu muito nos últimos séculos. Portanto, está provado que
+a degradação ambiental é verdadeira. Também é necessário destacar, que
+nesta época, o Estado voltou-se para a atividade econômica e de investimentos
+industriais, crescendo muito após as grandes guerras do século XX, onde fica
+claro que o Estado foi o responsável pela reconstrução das sociedades
+devastadas.
 
-- Conhecimento da Terminologia; 
+No final do século XX e início do atual, pode-se falar, que o
+capitalismo até aqui, está funcionando sobre bases sólidas do
+individualismo, da igualdade ente os homens e na busca, cada vez mais
+forte, de investimentos para o progresso científico e tecnológico, com
+geração de mais riquezas. Onde fica claro que o poderio econômico
+definirá a posição política no país e no mundo.
 
-=== Detalhes e elementos específicos
+.Efeito da tecnologia sobre o meio ambiente
+image::{img}/fig16.jpg[]
 
-Conhecimento Efetivo/Factual:: Relacionado ao conteúdo básico que 
-o discente deve dominar a fim de que consiga realizar e resolver 
-problemas apoiados nesse conhecimento. Relacionado aos fatos que 
-não precisam ser entendidos ou combinados, apenas reproduzidos 
-como apresentados.
+=== Poluição
 
-- Conhecimento de detalhes e elementos específicos.
+A poluição ou contaminação do meio ambiente é uma das conseqüências da
+atividade humana: aumento populacional, desenvolvimento tecnológico
+etc. Estas atividades geram alterações significativas no meio ambiente
+ocasionando desequilíbrios, ou melhor, levam a novos equilíbrios,
+diferentes dos que existiam anteriormente acarretando, desta maneira,
+sérios danos à natureza.
 
-=== Classificação e categorização
+Com fins didáticos, podemos definir poluição como qualquer alteração
+físico-química ou biológica que venha perturbar ou desequilibrar um
+ecossistema. Ao agente causador destas alterações, chamamos de
+poluente.
 
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
+=== 2. Principais Fontes de Poluição e os Poluentes
 
-- Conhecimento de classificação e categorização; 
+As principais fontes de poluição são: os resíduos industriais que, lançados no solo, na atmosfera e nos diferentes ambientes receptores, degradam a vida destes ambientes, desequilibrando seus ciclos de vida. Os resíduos considerados poluentes mais significativos no planeta são:
 
-=== Princípios e generalizações
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
+Resíduos orgânicos: a matéria orgânica potencialmente ativa, capaz de entrar em putrefação (esgotos domésticos, laticínios, frigoríficos, destilarias, usinas de açúcar etc.);
 
-- Conhecimento de princípios e generalizações; 
+Resíduos minerais: substâncias químicas minerais ou biológicas, relativamente estáveis, capazes de alterar as condições físico-químicas ou biológicas do meio (indústrias de celulose, indústrias metalúrgicas, refinarias de petróleo, mineração etc.);
+
+Resíduos atômicos: são aqueles que contem isótopos radioativos capazes de imitir radiações ionizantes, (lixo atômico);
+
+Resíduos tóxicos: aqueles resíduos que são capazes de causar diversas reações e até a morte do homem, de acordo com a concentração (indústrias produtoras de resíduos de cromo, boro, cianetos, cobre, fenóis, niquelação, cromação etc.);
+
+Resíduos mistos: são aqueles poluentes de natureza química associados aos de natureza biológica (indústrias têxteis, lavanderias, curtumes, indústrias de papel e celulose, borracha, etc.).
 
 
-=== Teorias, modelos e estruturas
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
+=== 3. Tipos de Poluição
 
-- Conhecimento de teorias, modelos e estruturas.
+==== Poluição das águas
+Destacam-se três tipos principais de poluição: efluente doméstico,
+industrial e agrícola.
 
-=== Conteúdos específicos, habilidades e algoritmos
-Conhecimento Procedural:: relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
+- O efluente doméstico (esgoto urbano) é responsável por grandes
+desequilíbrios ecológicos, além de provocar inúmeras doenças infecciosas.
 
-- Conhecimento de conteúdos específicos, habilidades e algoritmos; 
+- O efluente industrial é responsável por uma variedade de poluentes por
+existir diversos tipos de indústrias. Exemplo: destilarias, conservas, mineração
+metalúrgica, laticínios, farmacêuticas etc., que prejudicam pela toxidez de seus
+efluentes, como por exemplo, os despejos do mercúrio encontrado em alguns
+rios do Brasil.
 
-=== Técnicas específicas e métodos
-Conhecimento Procedural:: Relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
+- O efluente agrícola praticamente causa os mesmos efeitos vistos
+anteriormente, com uma diferença, que estes são os maiores responsáveis pela
+“eutrofização” dos corpos, por causa do carreamento de substâncias usadas na
+agricultura (adubos, pesticidas, herbicidas, ricos em nutrientes), para os cursos
+de água e para o oceano, produzindo aquele mesmo efeito na cadeia alimentar.
 
-- Conhecimento de técnicas específicas e métodos; 
+==== Poluição do solo
+Através da história, tem-se constatado que o homem tem interferido no
+solo com suas práticas de aração, plantio, mineração, construção, colocando,
+retirando ou colocando água no solo, lançando agentes químicos, pesticidas,
+herbicidas, produtos radioativos. O recurso solo é de fundamental importância
+para a sobrevivência do homem. O controle e o combate à sua poluição,
+portanto, deveria ser encarado como principal defesa de um dos meios de
+sobrevivência em seu habitat natural.
 
-=== Critérios e percepção de como e quando usar um procedimento específico.
-Conhecimento Procedural:: Relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
+As principais fontes de poluição no solo são: os despejos sólidos e
+líquidos em zonas não saneadas, o uso de produtos químicos na agricultura, o
+desmatamento e a erosão.
 
-- Conhecimento de critérios e percepção de como e quando usar um procedimento específico.
+==== Poluição sonora
+Este tipo de poluição sonora existe nos grandes centros, devido ao
+excesso de ruídos urbanos, por causa das inúmeras atividades realizadas para
+seu próprio sustento. Na atualidade, existem análises para determinar os níveis
+e o controle às fontes emissoras dos ruídos entendendo, portanto, que seria um
+problema ligado à Medicina Social e ao estudo de insalubridade do meio.
 
-=== Conhecimento estratégico
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
+A poluição sonora influi causando lesões e até surdez, outros podem
+conduzir às lesões psíquicas e fadiga, como também, distúrbios vegetativos,
+hipertensão, cardiopatias e taquicardia. A explicação para este tipo de poluição
+sonora é o aumento do barulho no material de construção pouco isolante, da
+crescente mecanização nos transportes urbanos, nas obras públicas e nas
+construções, de uma forma geral.
 
-- Conhecimento estratégico; 
 
-=== Contextos preferenciais e situações de aprendizagem (estilos)
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
+==== Poluição radioativa
+A poluição radioativa decorre de fontes de irradiações, cujos elementos
+emissores são radionuclídeos naturais ou artificiais, que se encontram na
+biosfera e são estudados somente em relação aos males ou lesões que
+provocam diretamente ou indiretamente aos homens, mediante sua a
+acumulação contaminante nos alimentos (plantas e animais) e por meio de
+água. Os radionuclídeos, na atmosfera, que circulam sob a forma de gases ou
+pedras (poeira radioativas), tornam-se agentes extremadamente perigosas ao
+homem e, por isso, há um rigoroso controle das explosões nucleares, referindo-
+se às de ocorrência subterrânea.
 
-- Conhecimento sobre atividades cognitivas  incluindo contextos preferenciais e situações de aprendizagem (estilos); 
+Os vegetais também absorvem radionuclídeos através de suas raízes,
+na troca de íons no solo e podem, por via indireta, atingir o homem, mesmo os
+radionuclídeos em componentes isolados no solo, como é o caso do tório,
+podem desintegrar-se em outros radioelementos e tornam-se disponíveis para
+as plantas. Através das folhas dos vegetais absorvem, por exemplo, o césio 137
+e o chumbo 210. Fazendo um análise, fonte por fonte, encontraremos a radiação
+dispersa em cerca de 340 radionuclídeos, dispersos pela natureza e distribuídos
+em três famílias distintas: a do urânio, do tório e do actínio. Existem outros tipos
+de poluição, mas os que já foram explicados acima são os principais.
 
-=== Autoconhecimento
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
-
-- Autoconhecimento
-
-=== Recapitulando
-
-Revisão do que foi aprendido. Não apresentar nada novo.
+.Poluição industrial
+image::{img}/fig17.jpg[]
