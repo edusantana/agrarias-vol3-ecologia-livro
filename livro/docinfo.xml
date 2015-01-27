@@ -2,14 +2,24 @@
 
 <revhistory>
 
-  <revision>
-    <revnumber>v0.1.0</revnumber>
-    <date>Março 2013</date>
-    <authorinitials>Autor1, Autor2</authorinitials>
-    <revremark>
-      Primeira versão do livro.
-    </revremark>
-  </revision>
+<revision>
+<revnumber>v1.1.0</revnumber>
+<date>2015</date>
+<authorinitials>Eduardo</authorinitials>
+<revremark>
+Conversão para novo layout.
+</revremark>
+</revision>
+  
+
+<revision>
+<revnumber>v1.0.0</revnumber>
+<date>2010</date>
+<authorinitials>Silvestre Fernández Vázquez</authorinitials>
+<revremark>
+Primeira versão do livro.
+</revremark>
+</revision>
   
 </revhistory>
 
