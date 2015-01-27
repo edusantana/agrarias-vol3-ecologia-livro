@@ -45,7 +45,7 @@ Ações e tecnologias que visam eliminar, neutralizar ou transformar
 contaminantes presentes na subsuperficie (solo e águas subterrâneas). Refere-
 se a áreas contaminadas.
 
-=== 2. Técnicas de Recuperação
+=== Técnicas de Recuperação
 Dependendo do grau de degradação, técnicas simples podem ser
 utilizadas na recuperação de áreas degradadas, tais como:
 
