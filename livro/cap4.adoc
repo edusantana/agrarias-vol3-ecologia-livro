@@ -39,6 +39,7 @@ altitude;
 
 Existem outras situações muito preocupantes sobre a degradação
 ambiental, tais como:
+
 - Escassez de água potável na atualidade para 2 bilhões de pessoas e,
 se continuar neste ritmo, em 25 anos, a previsão pode atingir 4 bilhões;
 - 3 milhões de pessoas estão morrendo anualmente pela poluição do ar;
@@ -91,22 +92,36 @@ físico-química ou biológica que venha perturbar ou desequilibrar um
 ecossistema. Ao agente causador destas alterações, chamamos de
 poluente.
 
-=== 2. Principais Fontes de Poluição e os Poluentes
+=== Principais Fontes de Poluição e os Poluentes
 
-As principais fontes de poluição são: os resíduos industriais que, lançados no solo, na atmosfera e nos diferentes ambientes receptores, degradam a vida destes ambientes, desequilibrando seus ciclos de vida. Os resíduos considerados poluentes mais significativos no planeta são:
+As principais fontes de poluição são: os resíduos industriais que,
+lançados no solo, na atmosfera e nos diferentes ambientes receptores,
+degradam a vida destes ambientes, desequilibrando seus ciclos de vida.
+Os resíduos considerados poluentes mais significativos no planeta são:
 
-Resíduos orgânicos: a matéria orgânica potencialmente ativa, capaz de entrar em putrefação (esgotos domésticos, laticínios, frigoríficos, destilarias, usinas de açúcar etc.);
+Resíduos orgânicos:: a matéria orgânica potencialmente ativa, capaz de
+entrar em putrefação (esgotos domésticos, laticínios, frigoríficos,
+destilarias, usinas de açúcar etc.);
 
-Resíduos minerais: substâncias químicas minerais ou biológicas, relativamente estáveis, capazes de alterar as condições físico-químicas ou biológicas do meio (indústrias de celulose, indústrias metalúrgicas, refinarias de petróleo, mineração etc.);
+Resíduos minerais:: substâncias químicas minerais ou biológicas,
+relativamente estáveis, capazes de alterar as condições
+físico-químicas ou biológicas do meio (indústrias de celulose,
+indústrias metalúrgicas, refinarias de petróleo, mineração etc.);
 
-Resíduos atômicos: são aqueles que contem isótopos radioativos capazes de imitir radiações ionizantes, (lixo atômico);
+Resíduos atômicos:: são aqueles que contem isótopos radioativos capazes
+de imitir radiações ionizantes, (lixo atômico);
 
-Resíduos tóxicos: aqueles resíduos que são capazes de causar diversas reações e até a morte do homem, de acordo com a concentração (indústrias produtoras de resíduos de cromo, boro, cianetos, cobre, fenóis, niquelação, cromação etc.);
+Resíduos tóxicos:: aqueles resíduos que são capazes de causar diversas
+reações e até a morte do homem, de acordo com a concentração
+(indústrias produtoras de resíduos de cromo, boro, cianetos, cobre,
+fenóis, niquelação, cromação etc.);
 
-Resíduos mistos: são aqueles poluentes de natureza química associados aos de natureza biológica (indústrias têxteis, lavanderias, curtumes, indústrias de papel e celulose, borracha, etc.).
+Resíduos mistos:: são aqueles poluentes de natureza química associados
+aos de natureza biológica (indústrias têxteis, lavanderias, curtumes,
+indústrias de papel e celulose, borracha, etc.).
 
 
-=== 3. Tipos de Poluição
+=== Tipos de Poluição
 
 ==== Poluição das águas
 Destacam-se três tipos principais de poluição: efluente doméstico,
@@ -177,4 +192,4 @@ em três famílias distintas: a do urânio, do tório e do actínio. Existem out
 de poluição, mas os que já foram explicados acima são os principais.
 
 .Poluição industrial
-image::{img}/fig17.jpg[]
+image::{img}/fig17.jpg[scaledwidth="70%"]
