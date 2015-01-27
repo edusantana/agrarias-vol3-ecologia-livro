@@ -37,11 +37,12 @@ sua condensação e a precipitação em forma de chuva, granizo ou neve.
 
 
 .Ciclo da Água
-image::{img}/fig9.jpg[]
+image::{img}/fig9.jpg[scaledwidth="70%"]
 
 A água no contexto biogeoquímico transporta substâncias minerais e
 orgânicas livres combinadas, ou em suspensão, além de gases dissolvidos que
 abastecem os biótipos e alimentam do princípio ao fim de toda a cadeia trófica.
+
 Segundo Branco (1991), alguns valores podem ser importantes nos
 seguintes aspectos:
 
@@ -82,7 +83,7 @@ valores de CO~2~ são muito altos e estão causando uma elevação da
 temperatura, cujo fenômeno é denominado Efeito Estufa.
 
 .Ciclo do Carbono
-image::{img}/fig10.jpg[]
+image::{img}/fig10.jpg[scaledwidth="70%"]
 
 === Ciclo do Oxigênio
 
@@ -99,19 +100,19 @@ suficiente. Os animais também retiram O~2~ da atmosfera, por meio de seus
 pulmões, branquiais ou cutâneos, fixando pela respiração e liberando também
 CO~2~ e H~2~O.
 
-A substituição do O2 utilizado é através das plantas em pequenas
+A substituição do O~2~ utilizado é através das plantas em pequenas
 quantidades, é quando a produção dos açúcares através da fotossíntese for
 maior que os queimados na respiração. De imediato, a principal fonte de
-reposição do O2 atmosférico gasto na respiração dos seres vivos e por outros
+reposição do O~2~ atmosférico gasto na respiração dos seres vivos e por outros
 diversos tipos de combustão da matéria orgânica é a hidrólise da água, que
 ocorre nas regiões altas da atmosfera, que é realizada pela ação da radiação
-ultravioleta de grande energia. Vários autores argumentam que o inicial do O2
+ultravioleta de grande energia. Vários autores argumentam que o inicial do O~2~
 atmosférico foi surgindo dos seres vivos do planeta. Também é necessário
-destacar que a complexidade do ciclo do O2, por causa de múltiplas
+destacar que a complexidade do ciclo do O~2~, por causa de múltiplas
 combinações que ele pode realizar forma muitos epiciclos.
 
 .Ciclo do Oxigênio
-image::{img}/fig11.jpg[]
+image::{img}/fig11.jpg[scaledwidth="50%"]
 
 === Ciclo do Nitrogênio
 
@@ -136,7 +137,7 @@ produzindo nitrito (NO~2~ ). Este processo se conhece com o nome de nitrosação
 2NH~3~ + 3O~2~ Nitrosomonas -> 2HNO~2~ + 2H~2~ + Energia
 ****
 
-As bactérias que pertencem ao gênero Nitrobacter utilizam o nitrito para
+As bactérias que pertencem ao gênero _Nitrobacter_ utilizam o nitrito para
 sua respiração, depois é oxidado e transformado em nitrato (NO~3~ ). Este produto
 chamado nitrato dissolvido na água permanece no solo, podendo ser absorvido
 no reino vegetal, onde é armazenado e para poder passar ao reino animal se dá
@@ -212,6 +213,7 @@ geologia do solo e fisiografia.
 Em 1934, foi proposto o conceito de ecossistema pelo inglês Tansley.
 Esta idéia de ecossistema já existia e muitas pessoas haviam pensado em
 alguns aspectos de conceito, tal como foi definido por Tansley.
+
 Na atualidade, é sabido que todas as formas de vida existentes, desde
 as mais simples às mais complexas, não existem isoladamente na natureza,
 elas se relacionam vivendo em uma perfeita interdependência. Considerando
@@ -241,10 +243,10 @@ povoado por seres vivos e o conjunto de seres vivos que povoam esse
 ambiente, interagindo.
 
 O ambiente que é o componente físico do ecossistema leva o nome de
-Biótopo (derivado do grego, bios = vida e topos = lugar).
+Biótopo (derivado do grego, bios=vida e topos=lugar).
 
 O conjunto de seres vivos tem o nome de Biocenose (derivado do grego,
-bios = vida e koinos = conjunto)
+bios=vida e koinos=conjunto)
 
 ****
 ECOSSISTEMA = BIÓTOPO + BIOCENOSE
@@ -266,11 +268,12 @@ Compreendem os cultivos, os animais, o solo, as ervas daninhas, as doenças e
 as pragas.
 
 .Agroecossistema vegetal
-image::{img}/fig15.jpg[]
+image::{img}/fig15.jpg[scaledwidth="70%"]
 
 
 ==== Características
-São quatro as características: produtividade, estabilidade,
+
+São cinco as características: produtividade, estabilidade,
 sustentabilidade, equidade e autonomia.
 
 A produtividade:: é determinada pelo produto obtido por unidade de área.
