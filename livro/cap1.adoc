@@ -1,168 +1,183 @@
-== Novo capítulo
+== ECOLOGIA E MEIO AMBIENTE
 
 :cap: cap1
 :img: images/{cap}
 :online: {gitrepo}/blob/master/livro/code/{cap}
 :local: code/{cap}
 
-.Objetivos do capítulo
-____
-Ao final deste capítulo você deverá ser capaz de:
+Os seres vivos e o meio ambiente no qual estes de desenvolvem, se
+encontram estreitamente relacionados em um complexo conjunto físico, químico e
+biológico, que constitui o campo de ação da disciplina científica conhecida como
+Biologia.
 
-1.  *Lembrar* as três hipóteses de previsão e listar os padrões típicos
-de comportamento de dados históricos, *reproduzindo-os* na realização de
-exercícios teóricos, envolvendo os nomes das técnicas de previsão mais
-utilizadas em processos estacionários, com tendência e com
-sazonalidade.
+Devido à grande complexidade de seres vivos que integram este conjunto e
+a multiplicidade de suas relações, o homem se vê forçado a estudar a Biologia sob
+vários ângulos, isso resulta no desenvolvimento de diversos campos de ação
+dentro da mesma disciplina. Entretanto, é bom lembrar que todas estas disciplinas
+ou ramos da Biologia são partes integrantes de um todo, portanto, para o estudo de
+qualquer disciplina biológica se faz necessário ter presente a complexidade que
+caracteriza esta ciência.
 
-2.  *Entender*  as  diferenças  entre  as  técnicas existentes,
-*comparando* cada uma com as diferentes hipóteses e padrão de dados.
+É provável que uma das primeiras atividades naturais do homem primitivo
+tenha sido a diversidade das formas viventes que povoam o nosso mundo. Como
+uma reação a este estímulo, o homem tratou de agrupar os seres em categorias
+semelhantes, com o interesse de ordenar as coisas. Este primeiro esforço do
+homem com relação à Biologia foi a base fundamental para a taxonomia.
 
-3.  *Escolher* e aplicar, de forma consciente, uma das técnicas,
-*implementando* um programa específico ou utilizando um aplicativo
-disponível  no mercado.
+O homem, com o interesse de continuar estudando os seres vivos, sentiu
+necessidade do apoio das outras ciências biológicas, sendo assim, para a
+estrutura ele utilizou a morfologia; para a forma e tamanho dos seres vivos ele usou
+a fisiologia etc. Para estudar os seres vivos com o meio ambiente e sua relação
+com o meio físico e com os demais seres vivos, ele deu origem ao enfoque
+ecológico.
 
-4.  *Analisar*  as  diferentes  medidas  de  erro, *diferenciando-as*,
-*atribuindo* significados de importância e *entendendo* em quais
-circunstâncias  cada uma delas é mais adequada.
+Os conhecimentos de taxonomia, morfologia, fisiologia e ecologia, fizeram
+com que alguns de nossos antepassados passassem a perceber que, de alguma
+maneira, a vida transmitia sua identidade morfológica e funcional, e esta
+preocupação foi até a segunda parte do século XIX quando Gregório Mendel, em
+seu humilde monastério austríaco, descobriu as leis fundamentais da herança, que
+são as bases da disciplina mais jovem da biologia, chamada genética.
 
-5.  *Avaliar* os resultados obtidos por meio do emprego da técnica de
-previsão, *estimando* o impacto da acuracidade e das incertezas
-associadas a todo o processo.
-
-____
-
-[cols="^13,^10,^10,^10,^10,^10,^10", grid="cols",frame="none"]
-|====
-1.2+s| Conhecimento 6+s| Processo Cognitivo
-| Lembrar         |Entender  | Aplicar |  Analisar | Avaliar | Criar
-| Factual  |Objetivo 1|||||
-| Conceitual |Objetivo 2|Objetivo 3||||
-| Procedural |||Objetivo 4|||
-| Metacognitivo ||||||Objetivo 5
-|  2+s|Conhecimento 2+s|Competência 2+s|Habilidade
-|====
-
-A *elaboração dos objetivos de aprendizagem* e *divisão das seções* do
-capítulo seguem a taxonomia de Bloom revisada, para
-compreender esta classificação recomendo a leitura de  ``Taxonomia de
-Bloom: revisão teórica e apresentação das adequações do instrumento
-para definição de objetivos instrucionai'', disponível em
-http://www.scielo.br/pdf/gp/v17n2/a15v17n2.pdf.
-
-.Dimensão do conhecimento da Taxonomia de Bloom revisada
-image::{img}/bloom.eps[]
+A biologia tem cinco grandes campos de ação, que são: taxonomia,
+morfologia, fisiologia, ecologia e genética. A ação conjunta de duas ou mais destas
+matérias da biologia, algumas vezes em conjunto com outras disciplinas, como a
+física, química, matemática etc., tem dado origem a várias outras áreas de estudo
+tais como: evolução, biologia molecular, biofísica, bioquímica, biologia espacial
+etc.
 
 
-=== Terminologia
 
-Conhecimento Efetivo/Factual:: Relacionado ao conteúdo básico que 
-o discente deve dominar a fim de que consiga realizar e resolver 
-problemas apoiados nesse conhecimento. Relacionado aos fatos que 
-não precisam ser entendidos ou combinados, apenas reproduzidos 
-como apresentados.
+Das várias disciplinas biológicas existentes, o nosso interesse particular
+é a ecologia, já que este é o tema fundamental de nossa obra. A ecologia é a área
+menos independente das outras áreas da biologia e precisa, em maior ou menor
+grau, das ciências naturais e exatas, como também das áreas tecnológicas. É
+por esta razão que muitas pessoas consideram que a ecologia é uma ciência de
+integração.
 
-- Conhecimento da Terminologia; 
+Na atualidade, existe muito interesse da opinião pública com relação aos
+problemas do meio ambiente, no qual são necessários conhecimentos
+científicos para que se possa compreender a conservação, preservação,
+manejo e monitoramento ambiental de uma determinada região.
 
-=== Detalhes e elementos específicos
-
-Conhecimento Efetivo/Factual:: Relacionado ao conteúdo básico que 
-o discente deve dominar a fim de que consiga realizar e resolver 
-problemas apoiados nesse conhecimento. Relacionado aos fatos que 
-não precisam ser entendidos ou combinados, apenas reproduzidos 
-como apresentados.
-
-- Conhecimento de detalhes e elementos específicos.
-
-=== Classificação e categorização
-
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
-
-- Conhecimento de classificação e categorização; 
-
-=== Princípios e generalizações
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
-
-- Conhecimento de princípios e generalizações; 
+A população humana está muito preocupada com a degradação
+ambiental do Planeta, por conseqüência da aplicação do modelo capitalista.
+Frente a esta problemática é de fundamental importância os conhecimentos
+científicos com relação à ecologia e ao meio ambiente, para que seja possível
+conseguir o equilíbrio ambiental e, desta maneira, garantir aos diferentes seres,
+uma vida digna e sustentável no planeta Terra.
 
 
-=== Teorias, modelos e estruturas
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
 
-- Conhecimento de teorias, modelos e estruturas.
+=== Definição de Ecologia
+A palavra Ecologia foi criada em 1866, pelo zoólogo alemão Ernest
+Haeckel, em sua obra Generelle Morphologie der Organismen, entretanto,
+existem trabalhos e estudos ecológicos que se remontam ao início de 1800.
 
-=== Conteúdos específicos, habilidades e algoritmos
-Conhecimento Procedural:: relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
+O termo ecologia originou-se de duas palavras gregas, oikos que quer
+dizer casa, e logos que significa ciência, estudo. Sendo assim, Ecologia significa
+“ciência da casa” ou “ciência do ambiente”.
 
-- Conhecimento de conteúdos específicos, habilidades e algoritmos; 
+Figura 1 - Ecologia florestal tropical
+Fonte: www.google.com.br
 
-=== Técnicas específicas e métodos
-Conhecimento Procedural:: Relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
+=== Divisão da Ecologia
 
-- Conhecimento de técnicas específicas e métodos; 
+Autoecologia nesta parte da Ecologia são estudadas somente as
+relações das espécies e o meio no qual vivem, considerando os limites de
+tolerância e a preferência de cada espécie em relação a cada fator
+ecológico.
 
-=== Critérios e percepção de como e quando usar um procedimento específico.
-Conhecimento Procedural:: Relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
+Sinecologia é o estudo das relações existentes entre várias
+espécies de um determinado ambiente e as relações destas espécies
+com esse ambiente. Alguns autores definem a sinecologia, como a
+“sociologia de todos os seres vivos integrados em seus diferentes
+ambientes”, como por exemplo, o homem (Homo sapiens) está dentro
+deste grupo de seres vivos. O homem “ártico” (esquimó) está adaptado a
+um meio, com condições de vida própria, por outro lado, há o “alpino”
+(suíço), que vive em condições de vida muito diferentes. Desta maneira
+entende-se, que existem diferentes grupos de animais e de plantas, que
+vivem em diferentes ambientes.
 
-- Conhecimento de critérios e percepção de como e quando usar um procedimento específico.
+É bom esclarecer que se algum ambiente natural existente no
+nosso planeta sofre alguma alteração, seja natural ou artificial, isso
+poderá causar uma alteração nas espécies desses ambientes, muitas
+vezes, levando-as ao risco de extinção, dependendo da intensidade dos
+efeitos causados. Deste modo, qualquer alteração em um conjunto de
+seres vivos é sempre uma conseqüência de alterações comprovadas no
+ambiente, no qual estes seres se encontram vivendo.
 
-=== Conhecimento estratégico
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
+=== Ecologia Geral
 
-- Conhecimento estratégico; 
+É o estudo das relações dos seres vivos uns com os outros e
+destes com seu meio ambiente. Atualmente, existe um consenso no
+mundo de que o planeta está muito degradado ecologicamente, por efeito
+do modelo de desenvolvimento praticado. Estas informações são
+comentadas diariamente nos jornais, revistas, livros, rádio, televisão,
+internet, política, enfim, é um tema atual muito discutido.
+Frente a esta problemática sobre a degradação ambiental no mundo, a
+ecologia estuda as interrelações dos seres vivos uns com os outros e com
+o meio ambiente. Pode-se dizer que o conhecimento da Ecologia é uma
+questão de sobrevivência para o Planeta.
 
-=== Contextos preferenciais e situações de aprendizagem (estilos)
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
 
-- Conhecimento sobre atividades cognitivas  incluindo contextos preferenciais e situações de aprendizagem (estilos); 
+=== Biosfera
 
-=== Autoconhecimento
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
+A palavra Biosfera foi utilizada pela primeira vez em 1875, pelo geólogo
+austríaco, Eduardo Sness. Entretanto, esta palavra somente passou a ter um
+sentido científico, em 1926, com a publicação de duas conferências, sob o título
+La Biosphère, do cientista mineralogista russo Vladimir Ivanovith.
+Com base nestes conhecimentos definiu-se a Biosfera como a parte da terra
+onde existe vida. Esta definição, um tanto simples, originou imediatamente
+algumas restrições:
 
-- Autoconhecimento
+a. Considerando-se a altitude acima da superfície da terra, pode-se
+encontrar esporos de fungos e bactérias atravessando o ar, utilizando
+filtros, todavia, este aeroplâncton não parece estar envolvido em um
+metabolismo ativo.
 
-=== Recapitulando
+b. Na superfície da terra, existem áreas muito secas, muito frias ou muito
+quentes para suportar organismos metabolizantes, a exceção de
+exploradores humanos tecnicamente equipados, como é o caso de
+desertos muito quentes ou a parte periférica da calota de gelo
+antártico, no entanto, em tais locais, também se encontram esporos,
+com freqüência.
 
-Revisão do que foi aprendido. Não apresentar nada novo.
+Quando comparadas as dimensões gerais da terra, a Biosfera é
+realmente muito estreita, pois não chega a 7 km acima do nível do mar e, abaixo,
+excepcionalmente ultrapassa os 6 km, podendo em alguns locais, chegar às
+profundas fossas do oceano, que têm mais de 10 km de profundidade. De uma
+forma geral, a Biosfera, em seus pontos mais espessos, não vai muito além dos
+de 15km, constituindo uma capa muito fina em torno do planeta de quase 13.000
+km de diâmetro.
+
+
+Figura 2 - Biosfera
+
+=== Divisão da Biosfera
+
+
+Como finalidade didática, a biosfera é composta por litosfera,
+hidrosfera e atmosfera.
+
+Litosfera:: é a camada superficial sólida da Terra. É a parte da
+biosfera constituída de rochas e solo, acima do nível das águas. A vida
+que nela se desenvolve é adaptada a animais e vegetais, que respiram ar
+livre e às outras condições decorrentes da ausência de água circundante.
+
+Hidrosfera:: é representada pelo ambiente líquido: os rios, lagos,
+oceanos. Ocupa os sete décimos da superfície total do planeta. Os
+animais e vegetais aquáticos possuem órgãos respiratórios, destinados a
+retirar o oxigênio que se encontra dissolvido na águas. Estes animais são
+geralmente de constituição mole, porque são sustentados pelo próprio
+meio líquido e possuem órgãos locomotores adaptados à natação.
+
+Atmosfera:: é a parte formada por uma camada gasosa que
+circunda toda a superfície da Terra envolvendo, portanto, os dois
+ambientes anteriormente explicados. Embora não existam organismos
+que sejam habitantes exclusivos da atmosfera, ela possui componentes
+indispensáveis à maioria deles. Existem muitos animais que conseguem
+locomover-se, apoiados nela, por meio do vôo e seus meios locomotores
+típicos, que são as asas. Nela existem também importantes meios de
+dispersão de sementes e grãos de pólen de muitas plantas, assim como
+de células reprodutoras de micro-organismos.
+

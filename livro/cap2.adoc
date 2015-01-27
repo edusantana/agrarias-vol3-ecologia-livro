@@ -1,168 +1,244 @@
-== Novo capítulo
+== RECURSOS NATURAIS
 
 :cap: cap2
 :img: images/{cap}
 :online: {gitrepo}/blob/master/livro/code/{cap}
 :local: code/{cap}
 
-.Objetivos do capítulo
-____
-Ao final deste capítulo você deverá ser capaz de:
+São todas as matérias que existem na natureza e que são utilizados para
+satisfazer as necessidades da população humana.
 
-1.  *Lembrar* as três hipóteses de previsão e listar os padrões típicos
-de comportamento de dados históricos, *reproduzindo-os* na realização de
-exercícios teóricos, envolvendo os nomes das técnicas de previsão mais
-utilizadas em processos estacionários, com tendência e com
-sazonalidade.
+Existem dois tipos de recursos naturais: os renováveis e os não-
+renováveis.
 
-2.  *Entender*  as  diferenças  entre  as  técnicas existentes,
-*comparando* cada uma com as diferentes hipóteses e padrão de dados.
+São denominados renováveis, porque não se esgotam com facilidade,
+devido à rápida velocidade de renovação e capacidade de manutenção.
+Exemplos: plantas, animais, ar, água, solo.
 
-3.  *Escolher* e aplicar, de forma consciente, uma das técnicas,
-*implementando* um programa específico ou utilizando um aplicativo
-disponível  no mercado.
+Os não-renováveis são assim denominados, porque se esgotam a uma
+velocidade superior a sua renovação. Exemplos: petróleo, ouro, prata, cobre,
+etc.
 
-4.  *Analisar*  as  diferentes  medidas  de  erro, *diferenciando-as*,
-*atribuindo* significados de importância e *entendendo* em quais
-circunstâncias  cada uma delas é mais adequada.
+=== Conservação e Preservação
+A Assembléia Geral da União Internacional para a Conservação dos
+Recursos Naturais apud Budowski (1972), reunida em Nova Delhi em 1969,
+aprovou a seguinte definição: “A ordenação dos recursos naturais da terra, do
+ar, da água, do solo e dos minerais, das diferentes espécies de plantas e
+animais, inclusive o homem, com a finalidade de obter a máxima qualidade de
+vida para humanidade, sobre uma base contínua”.
 
-5.  *Avaliar* os resultados obtidos por meio do emprego da técnica de
-previsão, *estimando* o impacto da acuracidade e das incertezas
-associadas a todo o processo.
+Pádua (1977) refere-se ao melhor uso dos recursos naturais, não
+diretamente, mas através da obtenção de benefícios indiretos dos mesmos.
 
-____
+Tanto a conservação como a preservação dos recursos naturais são
+partes integrantes e são fundamentais para o desenvolvimento planificado e
+sustentável de um país.
 
-[cols="^13,^10,^10,^10,^10,^10,^10", grid="cols",frame="none"]
-|====
-1.2+s| Conhecimento 6+s| Processo Cognitivo
-| Lembrar         |Entender  | Aplicar |  Analisar | Avaliar | Criar
-| Factual  |Objetivo 1|||||
-| Conceitual |Objetivo 2|Objetivo 3||||
-| Procedural |||Objetivo 4|||
-| Metacognitivo ||||||Objetivo 5
-|  2+s|Conhecimento 2+s|Competência 2+s|Habilidade
-|====
+=== Normas Ecológicas Para Uso da Terra
 
-A *elaboração dos objetivos de aprendizagem* e *divisão das seções* do
-capítulo seguem a taxonomia de Bloom revisada, para
-compreender esta classificação recomendo a leitura de  ``Taxonomia de
-Bloom: revisão teórica e apresentação das adequações do instrumento
-para definição de objetivos instrucionai'', disponível em
-http://www.scielo.br/pdf/gp/v17n2/a15v17n2.pdf.
+Os conhecimentos ecológicos devem ser utilizados no momento em que
+se formulam políticas e quando se avaliam programas alternativos, e não
+unicamente quando se preparam certos projetos específicos e outras classes de
+atividades para o desenvolvimento sustentável de uma região ou país.
 
-.Dimensão do conhecimento da Taxonomia de Bloom revisada
-image::{img}/bloom.eps[]
+=== Contribuição da Ecologia
 
+Podem ser citadas as principais situações onde é necessária a
+contribuição da ecologia, para obter o desenvolvimento sustentável:
 
-=== Terminologia
-
-Conhecimento Efetivo/Factual:: Relacionado ao conteúdo básico que 
-o discente deve dominar a fim de que consiga realizar e resolver 
-problemas apoiados nesse conhecimento. Relacionado aos fatos que 
-não precisam ser entendidos ou combinados, apenas reproduzidos 
-como apresentados.
-
-- Conhecimento da Terminologia; 
-
-=== Detalhes e elementos específicos
-
-Conhecimento Efetivo/Factual:: Relacionado ao conteúdo básico que 
-o discente deve dominar a fim de que consiga realizar e resolver 
-problemas apoiados nesse conhecimento. Relacionado aos fatos que 
-não precisam ser entendidos ou combinados, apenas reproduzidos 
-como apresentados.
-
-- Conhecimento de detalhes e elementos específicos.
-
-=== Classificação e categorização
-
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
-
-- Conhecimento de classificação e categorização; 
-
-=== Princípios e generalizações
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
-
-- Conhecimento de princípios e generalizações; 
+a) Quando se formulam objetivos e políticas de uso de uma região
+determinada ecológica;
+b) Quando se estabelecem planos para distribuição de terras para fins
+particulares;
+c) Durante o processo de conversão da terra de uma utilização a outra;
+d) Quando se planifica o manejo da terra para qualquer propósito
+determinado e alternativo.
 
 
-=== Teorias, modelos e estruturas
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
+=== Principais Normas Ecológicas para Uso da Terra
+As seguintes normas ecológicas estão ordenadas, de forma geral, para o
+específico:
 
-- Conhecimento de teorias, modelos e estruturas.
+a) Princípios ecológicos aplicáveis à determinação de objetivos e políticas
+para o desenvolvimento racional e sustentável de um país ou de uma região;
 
-=== Conteúdos específicos, habilidades e algoritmos
-Conhecimento Procedural:: relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
+b) Normas para distribuição da terra, para diversos usos e para estudos
+sobre recursos naturais;
 
-- Conhecimento de conteúdos específicos, habilidades e algoritmos; 
+c) Normas para o manejo de áreas para vida silvestre;
 
-=== Técnicas específicas e métodos
-Conhecimento Procedural:: Relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
+d) Normas para o manejo de florestas para produção de madeiras para
+diversos usos;
 
-- Conhecimento de técnicas específicas e métodos; 
+e) Normas para o manejo dos recursos de água doce, para alimentação,
+pesca e outros usos;
 
-=== Critérios e percepção de como e quando usar um procedimento específico.
-Conhecimento Procedural:: Relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
+f) Normas para a agricultura;
 
-- Conhecimento de critérios e percepção de como e quando usar um procedimento específico.
+g) Normas para a pecuária;
 
-=== Conhecimento estratégico
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
+h) Normas para plantações florestais;
 
-- Conhecimento estratégico; 
+i) Normas para uso de pesticidas e
 
-=== Contextos preferenciais e situações de aprendizagem (estilos)
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
+j) Normas relativas à infra-estrutura de obras e outros trabalhos de
+engenharia (UICN, 1975).
 
-- Conhecimento sobre atividades cognitivas  incluindo contextos preferenciais e situações de aprendizagem (estilos); 
+=== Ecossistema
 
-=== Autoconhecimento
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
+O ecossistema é um conjunto de seres vivos mutuamente dependentes
+uns dos outros e do meio ambiente no qual eles vivem. Deste modo, ficou
+estabelecido que dois componentes básicos de um ecossistema são um
+ambiente povoado por seres vivos e o conjunto de seres vivos que povoam esse
+ambiente, interagindo.
 
-- Autoconhecimento
+Figura 3 - Ecossistema
 
-=== Recapitulando
+Biótopo:: está formado pela área, mais ou menos delimitada, que contém os
+recursos suficientes para assegurar a conservação da vida nela existente.
 
-Revisão do que foi aprendido. Não apresentar nada novo.
+Biocenose:: está formada pela massa orgânica que, na quase totalidade dos
+ecossistemas, constitui-se dos vegetais. Desta maneira, entende-se que cada
+biótipo esta condicionado à sua biocenose. Quando existem alterações no
+biótipo, haverá possibilidade de mudanças da biocenose.
+
+=== Homeostase de uma Biocenose
+
+Homeostase é a capacidade de resistência às mudanças, ou seja, a
+tendência de manter-se em estado de equilíbrio (equilíbrio dinâmico). Por
+exemplo, a ação predadora de determinados animais sobre os outros. É o caso
+de auto-regulação da biocenose.
+
+As dimensões de um ecossistema são as mais variadas possíveis, para o
+caso do nosso estudo, o termo pode ser aplicado a biocenoses e biótipos de
+extensão muito variável. Neste sentido, pode-se distinguir os seguintes
+ecossistemas:
+
+Microecossistema:: um cadáver em decomposição;
+Mesoecossistema:: um lago, uma floresta;
+Macroecossistema:: o oceano.
+
+
+=== Conceitos Gerais e Terminologia Ecológica
+
+Em ecologia é necessário considerar os níveis de organização, porque
+permitem estabelecer um critério de delimitação de áreas de estudo ecológico e
+se leva em consideração numa seqüência natural de organização dos seres
+vivos que tem início no protoplasma e termina na biosfera, conforme passamos
+a descrever:
+
+
+****
+PROTOPLASMA -> CÉLULA -> TECIDO -> ÓRGÃO -> SISTEMA -> ORGANISMO ->
+POPULAÇÃO -> COMUNIDADE -> ECOSSISTEMA -> BIOSFERA
+****
+
+
+Meio Ambiente:: é o conjunto das condições que cercam o ser vivo. O
+meio inclui, portanto, os seres vivos e não vivos.
+
+Habitat:: é o lugar onde o organismo vive ou, é a área física onde é
+encontrado. Então, o habitat, como se percebe, pode ser desde o intestino de
+um animal em relação a determinado parasita, como uma lagoa, floresta,
+campo, caverna, solo etc.
+
+Nicho Ecológico:: é a função ou a profissão que exerce um individuo.
+
+Biota:: é a flora e a fauna de uma determinada região.
+
+Biótipo:: conjunto de indivíduos que possuem as mesmas características genéticas.
+
+Produtores:: são organismos que no ecossistema conseguem fabricar
+substâncias orgânicas a partir de compostos inorgânicos simples. Estes
+organismos se conhecem como seres autotróficos, como por exemplo: os
+vegetais, algas microscópicas.
+
+Consumidores:: são organismos que não têm capacidade de fabricar
+seu próprio alimento, vão buscá-lo já elaborado, direta ou indiretamente, nos
+produtores. Exemplo: Os macroconsumidores (animais em geral) e
+microconsumidores (bactérias e fungos) agentes decompositores de matéria
+orgânica.
+
+
+Cadeia Alimentar:: é a transferência de energia numa única direção.
+
+Exemplo:
+
+****
+VEGETAL -> INSETO -> RÃ -> SERPENTE -> GAVIÃO
+****
+
+Teia Alimentar:: transferência de energia não mais unidirecional e, portanto,
+mais complexa.
+
+Exemplo:
+
+["graphviz", "sample2.png"]
+---------------------------------------------------------------------
+digraph automata_0 {
+  rankdir="LR"
+  
+  VEGETAL -> COELHO -> "AVE DE RAPINA"
+  VEGETAL -> INSETO -> "BEM-TE-VI" -> "AVE DE RAPINA" -> SERPENTE -> DECOMPOSITORES
+  VEGETAL -> RATO -> SERPENTE
+  VEGETAL -> DECOMPOSITORES
+  "AVE DE RAPINA" -> DECOMPOSITORES
+}
+---------------------------------------------------------------------
+
+....
+
+....
+
+Decompositores (agentes da putrefação):: são os organismos
+(bactérias e fungos) que degradam compostos orgânicos do protoplasma de
+cadáveres de vegetais e animais, produzindo substâncias inorgânicas,
+ajudando a completar o indispensável ciclo da matéria e energia da natureza.
+
+
+=== Pirâmide Alimentar
+
+É a representação quantitativa de uma cadeia alimentar. Pode ser
+expressa por: a) número, b) massa (biomassa) e energia. Dos três tipos
+mencionados o mais importante é a pirâmide de energia.
+
+.Pirâmide Alimentar
+image::{img}/fig5.jpg[]
+
+Exemplo de uma pirâmide alimentar de uma comunidade que tem como
+produtor uma plantação de alfafa que vai servir, teoricamente, de alimento único
+para os bezerros que, por sua vez, são comidos por uma criança de 12 anos,
+durante um ano.
+
+=== Pirâmide de Número
+
+.Pirâmide de Número
+image::{img}/fig6.pdf[]
+
+=== Pirâmide de Biomassa
+
+.Pirâmide de Número
+image::{img}/fig7.pdf[]
+
+
+=== Pirâmide de Energia
+
+É um exemplo onde verdadeiramente temos uma posição real da
+situação.
+
+.Pirâmide de Energia
+image::{img}/fig8.jpg[]
+
+Cada nível trófico é representado por um retângulo cujo comprimento é
+proporcional à quantidade de energia acumulada por unidade de tempo e por
+unidade de superfície nesse nível. A pirâmide energética tem sempre a forma
+de um triângulo com ponta voltada para cima em razão das perdas de energia,
+quando há passagem de um nível para outro, o que é conseqüência das leis da
+termodinâmica e, também, pelo fato de cada organismo também consumir parte
+da energia.
+
+Na cadeia alimentar é sempre o produtor que apresenta um maior nível
+energético, à medida que se afasta do produtor, o nível energético vai
+diminuindo. Podemos constatar que a energia apresenta sempre o mesmo
+sentido, daí dizer-se que “a energia apresenta sempre um movimento
+unidirecional”.
