@@ -239,9 +239,9 @@ task :dot
 task :sync => :dot
 
 FileList['livro/images/**/*.dot'].each do |source|
-  epsfile = source.ext('eps')
+  epsfile = source.ext('pdf')
   file epsfile => source do |t|
-    sh "dot -Teps -o #{t.name} #{t.source}"
+    sh "dot -Tpdf -o #{t.name} #{t.source}"
   end
   task :dot => epsfile
 end

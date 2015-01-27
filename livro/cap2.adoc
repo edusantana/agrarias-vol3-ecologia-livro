@@ -46,12 +46,12 @@ atividades para o desenvolvimento sustentável de uma região ou país.
 Podem ser citadas as principais situações onde é necessária a
 contribuição da ecologia, para obter o desenvolvimento sustentável:
 
-a) Quando se formulam objetivos e políticas de uso de uma região
+a. Quando se formulam objetivos e políticas de uso de uma região
 determinada ecológica;
-b) Quando se estabelecem planos para distribuição de terras para fins
+b. Quando se estabelecem planos para distribuição de terras para fins
 particulares;
-c) Durante o processo de conversão da terra de uma utilização a outra;
-d) Quando se planifica o manejo da terra para qualquer propósito
+c. Durante o processo de conversão da terra de uma utilização a outra;
+d. Quando se planifica o manejo da terra para qualquer propósito
 determinado e alternativo.
 
 
@@ -59,29 +59,29 @@ determinado e alternativo.
 As seguintes normas ecológicas estão ordenadas, de forma geral, para o
 específico:
 
-a) Princípios ecológicos aplicáveis à determinação de objetivos e políticas
+a. Princípios ecológicos aplicáveis à determinação de objetivos e políticas
 para o desenvolvimento racional e sustentável de um país ou de uma região;
 
-b) Normas para distribuição da terra, para diversos usos e para estudos
+b. Normas para distribuição da terra, para diversos usos e para estudos
 sobre recursos naturais;
 
-c) Normas para o manejo de áreas para vida silvestre;
+c. Normas para o manejo de áreas para vida silvestre;
 
-d) Normas para o manejo de florestas para produção de madeiras para
+d. Normas para o manejo de florestas para produção de madeiras para
 diversos usos;
 
-e) Normas para o manejo dos recursos de água doce, para alimentação,
+e. Normas para o manejo dos recursos de água doce, para alimentação,
 pesca e outros usos;
 
-f) Normas para a agricultura;
+f. Normas para a agricultura;
 
-g) Normas para a pecuária;
+g. Normas para a pecuária;
 
-h) Normas para plantações florestais;
+h. Normas para plantações florestais;
 
-i) Normas para uso de pesticidas e
+i. Normas para uso de pesticidas e
 
-j) Normas relativas à infra-estrutura de obras e outros trabalhos de
+j. Normas relativas à infra-estrutura de obras e outros trabalhos de
 engenharia (UICN, 1975).
 
 === Ecossistema
@@ -92,7 +92,8 @@ estabelecido que dois componentes básicos de um ecossistema são um
 ambiente povoado por seres vivos e o conjunto de seres vivos que povoam esse
 ambiente, interagindo.
 
-Figura 3 - Ecossistema
+.Ecossistema
+image::{img}/fig3.jpg[]
 
 Biótopo:: está formado pela área, mais ou menos delimitada, que contém os
 recursos suficientes para assegurar a conservação da vida nela existente.
@@ -118,7 +119,6 @@ Microecossistema:: um cadáver em decomposição;
 Mesoecossistema:: um lago, uma floresta;
 Macroecossistema:: o oceano.
 
-
 === Conceitos Gerais e Terminologia Ecológica
 
 Em ecologia é necessário considerar os níveis de organização, porque
@@ -126,7 +126,6 @@ permitem estabelecer um critério de delimitação de áreas de estudo ecológic
 se leva em consideração numa seqüência natural de organização dos seres
 vivos que tem início no protoplasma e termina na biosfera, conforme passamos
 a descrever:
-
 
 ****
 PROTOPLASMA -> CÉLULA -> TECIDO -> ÓRGÃO -> SISTEMA -> ORGANISMO ->
@@ -159,7 +158,6 @@ produtores. Exemplo: Os macroconsumidores (animais em geral) e
 microconsumidores (bactérias e fungos) agentes decompositores de matéria
 orgânica.
 
-
 Cadeia Alimentar:: é a transferência de energia numa única direção.
 
 Exemplo:
@@ -173,22 +171,8 @@ mais complexa.
 
 Exemplo:
 
-["graphviz", "sample2.png"]
----------------------------------------------------------------------
-digraph automata_0 {
-  rankdir="LR"
-  
-  VEGETAL -> COELHO -> "AVE DE RAPINA"
-  VEGETAL -> INSETO -> "BEM-TE-VI" -> "AVE DE RAPINA" -> SERPENTE -> DECOMPOSITORES
-  VEGETAL -> RATO -> SERPENTE
-  VEGETAL -> DECOMPOSITORES
-  "AVE DE RAPINA" -> DECOMPOSITORES
-}
----------------------------------------------------------------------
-
-....
-
-....
+.Teia alimentar
+image::{img}/fig4.pdf[]
 
 Decompositores (agentes da putrefação):: são os organismos
 (bactérias e fungos) que degradam compostos orgânicos do protoplasma de

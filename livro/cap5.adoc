@@ -1,168 +1,329 @@
-== Novo capítulo
+== RECUPERAÇÃO DE ÁREAS DEGRADADAS
 
 :cap: cap5
 :img: images/{cap}
 :online: {gitrepo}/blob/master/livro/code/{cap}
 :local: code/{cap}
 
-.Objetivos do capítulo
-____
-Ao final deste capítulo você deverá ser capaz de:
+Degradação: “É o conjunto de processos que resultam dos danos
+causados no meio ambiente, pelos quais se perdem ou reduzem algumas de
+suas propriedades. Tais como, a qualidade ou capacidade produtiva dos
+recursos ambientais” (DECRETO FEDERAL, 1989).
 
-1.  *Lembrar* as três hipóteses de previsão e listar os padrões típicos
-de comportamento de dados históricos, *reproduzindo-os* na realização de
-exercícios teóricos, envolvendo os nomes das técnicas de previsão mais
-utilizadas em processos estacionários, com tendência e com
-sazonalidade.
+Na atualidade, o crescente aumento da população mundial traz em
+decorrência o aumento das necessidades para a sobrevivência desta
+população, para tanto, existe uma alta exploração dos recursos naturais no
+Planeta. Este desenfreado uso dos recursos naturais na Terra compromete as
+futuras gerações no que se refere à qualidade de vida. As principais atividades
+as quais têm dado origem às áreas degradadas são: agricultura,
+desmatamento, superpastoreio, mineração, desertificação, urbanização etc.
 
-2.  *Entender*  as  diferenças  entre  as  técnicas existentes,
-*comparando* cada uma com as diferentes hipóteses e padrão de dados.
+=== Conceitos
 
-3.  *Escolher* e aplicar, de forma consciente, uma das técnicas,
-*implementando* um programa específico ou utilizando um aplicativo
-disponível  no mercado.
+Degradação do solo::
+“Alterações adversas das características do solo em relação aos seus
+diversos usos possíveis, tanto estabelecidos em planejamento quanto os
+potenciais” (ABNT,1989).
 
-4.  *Analisar*  as  diferentes  medidas  de  erro, *diferenciando-as*,
-*atribuindo* significados de importância e *entendendo* em quais
-circunstâncias  cada uma delas é mais adequada.
+Restauração::
+Reprodução das condições exatas do local, tais como eram antes de
+serem alteradas pela intervenção.
 
-5.  *Avaliar* os resultados obtidos por meio do emprego da técnica de
-previsão, *estimando* o impacto da acuracidade e das incertezas
-associadas a todo o processo.
+Recuperação::
+Local alterado é trabalhado de modo que as condições ambientais
+acabem se situando próximas às condições anteriores à intervenção, ou seja,
+trata-se de devolver ao local o equilíbrio e a estabilidade dos processos
+atuantes.
 
-____
+Reabilitação::
+Local alterado destinado a uma dada forma de uso de solo, de acordo
+com projeto prévio e em condições compatíveis com a ocupação circunvizinha,
+ou seja, trata-se de reaproveitar a área para outra finalidade.
 
-[cols="^13,^10,^10,^10,^10,^10,^10", grid="cols",frame="none"]
-|====
-1.2+s| Conhecimento 6+s| Processo Cognitivo
-| Lembrar         |Entender  | Aplicar |  Analisar | Avaliar | Criar
-| Factual  |Objetivo 1|||||
-| Conceitual |Objetivo 2|Objetivo 3||||
-| Procedural |||Objetivo 4|||
-| Metacognitivo ||||||Objetivo 5
-|  2+s|Conhecimento 2+s|Competência 2+s|Habilidade
-|====
+Remediação::
+Ações e tecnologias que visam eliminar, neutralizar ou transformar
+contaminantes presentes na subsuperficie (solo e águas subterrâneas). Refere-
+se a áreas contaminadas.
 
-A *elaboração dos objetivos de aprendizagem* e *divisão das seções* do
-capítulo seguem a taxonomia de Bloom revisada, para
-compreender esta classificação recomendo a leitura de  ``Taxonomia de
-Bloom: revisão teórica e apresentação das adequações do instrumento
-para definição de objetivos instrucionai'', disponível em
-http://www.scielo.br/pdf/gp/v17n2/a15v17n2.pdf.
+=== 2. Técnicas de Recuperação
+Dependendo do grau de degradação, técnicas simples podem ser
+utilizadas na recuperação de áreas degradadas, tais como:
 
-.Dimensão do conhecimento da Taxonomia de Bloom revisada
-image::{img}/bloom.eps[]
+1. Regeneração e sucessão ecológica. Refere-se à regeneração
+natural, que muitas vezes é um procedimento simples e econômico de
+recuperação de áreas degradadas;
+
+2. Rotação e consórcio de culturas. Consiste em um planejamento
+racional de plantações diversas, distribuídas de forma simultânea e seqüencial e
+em um mesmo terreno e em certa ordem e por certo número de anos;
+
+3. Contribuição das minhocas para a recuperação de áreas degradadas.
++
+--
+Os benefícios que a atividade das minhocas pode trazer para a recuperação de
+áreas degradadas são:
+
+a. Aumento na circulação e capacidade de retenção de água e de ar no
+solo;
+b. Melhoria da fertilidade natural, pela presença de húmus,
+principalmente cálcio, fósforo e potássio trocável;
+c. Condiciona o aparecimento de outros microorganismos benéficos;
+d. Celhoria da estrutura do solo e, consequentemente, taxa de
+infiltração.
+--
+
+4. sistemas agroflorestais. Os sistemas agroflorestais são uma
+combinação de culturas agrícolas, árvores e pastagens, consorciados tanto no
+tempo como no espaço e em forma simultânea ou seqüencial.
++
+--
+Os benefícios ecológicos, econômicos e sociais que proporcionam os
+sistemas agroflorestais são:
+
+a. Ótima utilização do espaço físico de uma determinada área;
+
+b. Melhora significativa das características químicas, físicas e biológicas do
+solo;
+
+c. A produção total das culturas agrícolas, árvores e criação de animais é
+freqüentemente maior que a produção das monoculturas;
+
+d. Os SAFs permitem uma maior facilidade para o manejo agroecológico;
+
+e. Existe menos risco de perda total das espécies dos SAFs;
+
+f. As espécies florestais dão um excelente suporte para manutenção do
+equilíbrio ecológico;
+
+g. Existe uma maior biodiversidade ecológica,etc.
+--
+
+5. Agricultura orgânica. A agricultura orgânica, devido aos seus meios
+naturais de cultivo com dispensa de adubos químicos e herbicidas, contribui
+para uma melhor manutenção da fauna e flora edáfica e do agroecossistema,
+aumento da matéria orgânica e resistência a erosão, diminui a poluição
+ambiental e, consequentemente, a recuperação do ambiente degradado,
+permitindo finalmente um equilíbrio do ecossistema e melhor qualidade para as
+diferentes formas de vida.
+
+6. Educação ambiental. É a melhor forma e a mais barata de
+recuperação de áreas degradadas. Existem alguns locais, tais como, as áreas
+de mineração onde é inevitável a degradação, porém, na maioria dos casos, ela
+só ocorre pela falta de planejamento, conhecimento adequado ou utilização de
+técnicas inadequadas de exploração de recursos naturais. Uma boa educação
+ambiental, geralmente, envolve poucos recursos e trazem resultados
+permanentes.
+
+Existem grandes explorações de recursos naturais, como é o caso da
+mineração, que por não aplicar um planejamento e uma técnica adequada de
+exploração, poderia diminuir o impacto ambiental que causaria a degradação
+de uma determinada área. Isso ocorreria com a aplicação de um programa
+eficiente sobre educação ambiental, conscientizando a população sobre a
+importância da conservação e preservação dos recursos naturais, que são
+fundamentais para manter a qualidade de vida das diferentes formas de vida na
+Terra.
+
+O governo brasileiro destinará R$ 1 bilhão na recuperação de áreas
+degradadas, no reflorestamento e regularização ambiental da Amazônia (O
+GLOBO, 2008).
+
+.Plano de recuperação de áreas degradadas
+image::{img}/fig18.jpg[]
+
+=== Impacto Ambiental
+
+Considerando a legislação brasileira, impacto ambiental é:
+
+[quote]
+Qualquer alteração das propriedades físicas, químicas e biológicas do meio
+ambiente, caudada por qualquer forma de matéria ou energia resultante das
+atividades humanas que direta ou indiretamente, afetam: I. - a saúde, a
+segurança e o bem estar da população; II - as atividades sociais e econômicas;
+III - a biota; IV- as condições estéticas e sanitárias do meio ambiente; e V- a
+qualidade dos recursos ambientais (RESOLUÇÃO DO CONAMA, 1986).
+
+Desta maneira, explicamos que o conceito de impacto ambiental refere-se, 
+exclusivamente, aos efeitos da ação humana sobre o meio ambiente.
+Portanto, fenômenos naturais, tais como, tempestades, enchentes, incêndios
+florestais por causa natural, terremotos e outros, apesar de provocarem as
+alterações ressaltadas não se caracterizam como impacto ambiental.
+
+Em nível mundial, a conceituação do que seja impacto ambiental sob
+termos jurídicos datam do período da revolução industrial, e esta tem sido
+alterada de forma dinâmica. Fato esse, que se deve aos diferentes tipos de
+atividades humanas que podem dar origem a formas de matérias e/ou energias
+que afetam o meio ambiente.
+
+=== Licenciamento Ambiental
+
+O licenciamento ambiental é regulamentado pela Resolução do
+CONAMA no 001/86 e 237/97 e trata-se de uma série de procedimentos
+administrativos que devem ser seguidos pelo órgão licenciador de acordo com
+a Lei a nível Nacional. Os documentos necessários para solicitação de licença
+ambiental são de natureza jurídica e técnica. Assim, são exigidos documentos
+do empreendedor e da terra, quando se tratarem de atividades de exploração
+florestal (titularidade e averbação da reserva legal) como também os mapas,
+projetos, descrição da atividade, o Estudo de Impacto Ambiental e o Relatório de
+Impacto sobre o Meio Ambiente (EIA/RIMA) ou Plano de Controle Ambiental
+(este último para atividades ou empreendimentos com baixa capacidade de
+gerar impacto ambiental). Para entender quais empreendimentos e atividades
+necessitam de Relatório de Impacto Ambiental é importante uma consulta à
+Resolução CONAMA 001/86.
+  
+  
+
+Considerando a lei ambiental brasileira, existem os seguintes
+licenciamentos ambientais:
+
+a. Licença Prévia (PL) - a ser solicitada na fase de estudos para a
+localização do empreendimento, observados os planos municipais, estaduais
+ou federais de uso do solo;
+
+b. Licença de Instalação (LI) - autorizar o início da implantação do projeto
+aprovado;
+
+c. Licença de Operação (LO) - autoriza o início das operações, de acordo
+com o previsto nas licenças anteriores.
+
+Para a concessão de licença ambiental, de acordo com o porte do
+empreendimento, em geral, é necessário que o interessado apresente o Estudo
+de Impacto Ambiental e o Relatório de Impacto sobre o Meio Ambiental -
+EIA/RIMA, o qual deve ser custeado pelo proponente do projeto.
+
+O EIA/RIMA destina-se a identificar e interpretar as condições
+ambientais da área onde o projeto pretende instalar-se, a fim de prevenir as
+conseqüências e os efeitos indesejáveis daquela obra ou atividade para o bem-
+estar da saúde humana e o equilíbrio ambiental.
+
+A Resolução no 01/86, do Conselho Nacional do Meio Ambiente -
+CONAMA, relaciona os tipos de obras e atividades sujeitas à elaboração do
+EIA/RIMA, incluindo como tal: estradas, ferrovias, portos, linhas de transmissão,
+barragens, obras de irrigação e drenagem, mineração, aterros sanitários,
+unidades industriais, exploração de madeira, projetos agropecuários acima de
+1000 hectares e outros. Plano Diretor Obrigatório, segundo a Constituição
+Federal, para os Municípios com mais de 20 mil habitantes.
+
+.Estudo do impacto ambiental
+image::{img}/fig19.jpg[]
+
+.Licenciamento ambiental
+image::{img}/fig20.jpg[]
 
 
-=== Terminologia
+=== Desenvolvimento Sustentável
 
-Conhecimento Efetivo/Factual:: Relacionado ao conteúdo básico que 
-o discente deve dominar a fim de que consiga realizar e resolver 
-problemas apoiados nesse conhecimento. Relacionado aos fatos que 
-não precisam ser entendidos ou combinados, apenas reproduzidos 
-como apresentados.
+Desde os anos 60, quando foram iniciadas as discussões sobre os riscos
+da degradação do meio ambiente, a população humana vem se preocupando
+com os limites do crescimento do Planeta. As discussões intensas da
+comunidade internacional levaram a ONU a realizar a Conferência sobre o Meio
+Ambiente em Estocolmo (1972).
 
-- Conhecimento da Terminologia; 
+Em 1987, a Comissão Mundial da ONU sobre o Meio Ambiente e
+Desenvolvimento (UNCED), presidida por Gro Harlem Brundtland e Mansour
+Khalid, elaborou um documento chamado Our Common Future, mais conhecido
+com o nome de Relatório de Brundtland, onde foi definido que: “O
+desenvolvimento sustentável é aquele que atende as necessidades do
+presente, sem comprometer as possibilidades das gerações futuras em
+atenderem as suas próprias necessidades”.
 
-=== Detalhes e elementos específicos
+Esta definição contém dois conceitos chave: o conceito das
+necessidades, sobretudo, as necessidades essenciais dos pobres do mundo,
+que devem receber a máxima prioridade; e a noção de limitações, que o estágio
+da tecnologia e da organização social impõem ao meio ambiente, impedindo-o
+de atender as necessidades presentes e futuras (MMA, 2001).
 
-Conhecimento Efetivo/Factual:: Relacionado ao conteúdo básico que 
-o discente deve dominar a fim de que consiga realizar e resolver 
-problemas apoiados nesse conhecimento. Relacionado aos fatos que 
-não precisam ser entendidos ou combinados, apenas reproduzidos 
-como apresentados.
+Azevedo et al., (1997), explicam que existem algumas limitações na
+definição acima mencionada, especialmente no que concerne à caracterização
+das necessidades, isto porque a complexidade da organização social é muito
+grande e termina obscurecendo a clara definição. Os grupos apresentam
+diferentes versões sociais contraditórias com relação ao próprio convívio.
 
-- Conhecimento de detalhes e elementos específicos.
+Guzman (1998) fez um estudo sobre a origem, evolução e perspectivas
+do desenvolvimento sustentável, especialmente no que se refere à agricultura,
+onde o conceito oficial do desenvolvimento sustentável está inserido desde sua
+formulação, em uma profunda polêmica de natureza multidisciplinar.
 
-=== Classificação e categorização
+Considerando os diferentes interesses dos grupos sociais, o conceito de
+desenvolvimento sustentável foi modificando-se e adquirindo novos contornos,
+como por exemplo, o relacionado ao fator econômico.
 
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
+De acordo com Azevedo et al., (1999), existem muitas acepções
+relacionadas com o conceito, entretanto, os autores mantêm a definição original
+expressa no Relatório Brundtland.
 
-- Conhecimento de classificação e categorização; 
+Segundo Allen (1980), uma das acepções ao conceito de
+desenvolvimento sustentável tratada na conferência acima mencionada, é que
+"o desenvolvimento sustentável deve ser apropriado para atingir em forma
+permanente e satisfazer as necessidades e melhorar a qualidade de vida
+humana".
 
-=== Princípios e generalizações
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
+Barbier (1987), explica que:
 
-- Conhecimento de princípios e generalizações; 
+[quote]
+O conceito de desenvolvimento econômico sustentável, quando é aplicado no
+Terceiro Mundo, está relacionado diretamente com uma melhoria do padrão
+material de vida dos pobres, que pode ser registrado no aumento quantitativo na
+alimentação, renda líquida, educação, saúde, saneamento, abastecimento de
+água, estoques emergenciais de alimentos e dinheiro etc., e deve ser avaliado
+superficialmente o crescimento econômico em todo o país.
 
+Buttel (1992) reporta que foram observados vários aspectos sobre o
+conceito de desenvolvimento sustentável e destaca que esta definição envolve
+processos de mudança sociopolítica, socioeconômica e institucional que
+objetivam assegurar a satisfação das necessidades básicas da população e a
+equidade social, tanto no presente como no futuro, promovendo oportunidades
+de bem-estar econômico, que sejam compatíveis com as normas ecológicas a
+longo prazo.
 
-=== Teorias, modelos e estruturas
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
+Sach (apud CAMPOS, 2001), informa que o conceito de
+sustentabilidade engloba cinco dimensões principais:
 
-- Conhecimento de teorias, modelos e estruturas.
+Sustentabilidade social:: significa o estabelecimento de um processo de
+desenvolvimento que leve a um padrão estável de crescimento, com uma
+distribuição equitativa de renda e bens, com a finalidade de diminuir o abismo
+entre os padrões de vida dos ricos e dos pobres;
 
-=== Conteúdos específicos, habilidades e algoritmos
-Conhecimento Procedural:: relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
+Sustentabilidade econômica:: quando é alcançada graças ao fluxo
+constante de inversões públicas e privada, além da alocação e do manejo
+eficientes dos recursos naturais;
 
-- Conhecimento de conteúdos específicos, habilidades e algoritmos; 
+Sustentabilidade ecológica:: quando é possível a expansão da
+capacidade de transporte da "nave espacial terrestre", através do uso intensivo
+dos recursos potenciais existentes nos diferentes ecossistemas, considerando
+que o uso deve ser racional e compatível com um mínimo de deterioração do
+potencial dos recursos naturais. Como se pode constatar que o consumo dos
+combustíveis fósseis e outros, de esgotamento muito rápido além de prejudiciais
+ao meio ambiente, devem ser reduzidos. Neste mesmo entendimento impõe-se
+a redução do volume de substâncias poluentes, através de medidas políticas de
+conservação de energia e de recursos, reciclagem, substituição por recursos
+renováveis e/ou abundantes e inofensivos, utilizando tecnologias que permitam
+um nível mínimo de dejetos e poder alcançar uma máxima eficiência na
+utilização dos recursos, o incentivo a praticar a "agricultura biológica", e aos
+sistemas de agroflorestais;
 
-=== Técnicas específicas e métodos
-Conhecimento Procedural:: Relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
+Sustentabilidade geográfica:: é quando os problemas ambientais são
+causados, muitas vezes, por uma ocupação ou distribuição espacial
+desequilibrada dos assentamentos humanos e das atividades econômicas.
+Nesta dimensão, pode-se mostrar dois exemplos, uma é a tendência excessiva
+de concentração da população em áreas metropolitanas, e a destruição de
+ecossistemas frágeis, que é importância crucial, por causa do processo não
+controlado de colonização. Por estas explicações é necessário encontrar um
+modelo de ocupação rural-urbana mais equilibrada e estabelecer uma rede de
+unidades de conservação, para proteger a biodiversidade, e conseguir
+finalmente uma melhor qualidade de vida no Planeta;
 
-- Conhecimento de técnicas específicas e métodos; 
+Sustentabilidade cultural:: esta dimensão pode-se considerar a mais
+difícil de ser alcançada, porque é necessário que o processo de modernização
+tenha raízes endógenas, buscando a mudança em sintonia com a continuidade
+cultural vigente em contextos específicos para o local, o ecossistema, a cultura e
+a área.
 
-=== Critérios e percepção de como e quando usar um procedimento específico.
-Conhecimento Procedural:: Relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
+Portanto, o conceito de desenvolvimento sustentável envolve uma
+consciência moderna, para que se tenha clareza sobre os limites do planeta
+Terra e a fragilidade de seus equilíbrios ecológicos globais, um desenvolvimento
+socioeconômico para a satisfação das necessidades básicas da população e o
+reconhecimento autêntico do papel fundamental que a autonomia cultural
+desempenha nesse processo.
 
-- Conhecimento de critérios e percepção de como e quando usar um procedimento específico.
-
-=== Conhecimento estratégico
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
-
-- Conhecimento estratégico; 
-
-=== Contextos preferenciais e situações de aprendizagem (estilos)
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
-
-- Conhecimento sobre atividades cognitivas  incluindo contextos preferenciais e situações de aprendizagem (estilos); 
-
-=== Autoconhecimento
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
-
-- Autoconhecimento
-
-=== Recapitulando
-
-Revisão do que foi aprendido. Não apresentar nada novo.
+.Desenvolvimento sustentável
+image::{img}/fig21.jpg[]

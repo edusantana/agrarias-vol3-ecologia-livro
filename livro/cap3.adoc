@@ -7,7 +7,7 @@
 
 Os ciclos das matérias em na natureza são:
 
-Biológicos::- porque todas as transformações se sucedem por meio dos seres
+Biológicos:: porque todas as transformações se sucedem por meio dos seres
 vivos ou com a participação destes.
 
 Químicos:: porque são ciclos dos elementos químicos e se verificam sempre,

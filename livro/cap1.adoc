@@ -45,8 +45,6 @@ física, química, matemática etc., tem dado origem a várias outras áreas de 
 tais como: evolução, biologia molecular, biofísica, bioquímica, biologia espacial
 etc.
 
-
-
 Das várias disciplinas biológicas existentes, o nosso interesse particular
 é a ecologia, já que este é o tema fundamental de nossa obra. A ecologia é a área
 menos independente das outras áreas da biologia e precisa, em maior ou menor
@@ -66,19 +64,17 @@ científicos com relação à ecologia e ao meio ambiente, para que seja possív
 conseguir o equilíbrio ambiental e, desta maneira, garantir aos diferentes seres,
 uma vida digna e sustentável no planeta Terra.
 
-
-
 === Definição de Ecologia
 A palavra Ecologia foi criada em 1866, pelo zoólogo alemão Ernest
 Haeckel, em sua obra Generelle Morphologie der Organismen, entretanto,
 existem trabalhos e estudos ecológicos que se remontam ao início de 1800.
-
 O termo ecologia originou-se de duas palavras gregas, oikos que quer
 dizer casa, e logos que significa ciência, estudo. Sendo assim, Ecologia significa
 “ciência da casa” ou “ciência do ambiente”.
 
-Figura 1 - Ecologia florestal tropical
-Fonte: www.google.com.br
+.Ecologia florestal tropical
+image::{img}/fig1.jpg[]
+
 
 === Divisão da Ecologia
 
@@ -106,7 +102,7 @@ efeitos causados. Deste modo, qualquer alteração em um conjunto de
 seres vivos é sempre uma conseqüência de alterações comprovadas no
 ambiente, no qual estes seres se encontram vivendo.
 
-=== Ecologia Geral
+===  Ecologia Geral
 
 É o estudo das relações dos seres vivos uns com os outros e
 destes com seu meio ambiente. Atualmente, existe um consenso no
@@ -114,6 +110,7 @@ mundo de que o planeta está muito degradado ecologicamente, por efeito
 do modelo de desenvolvimento praticado. Estas informações são
 comentadas diariamente nos jornais, revistas, livros, rádio, televisão,
 internet, política, enfim, é um tema atual muito discutido.
+
 Frente a esta problemática sobre a degradação ambiental no mundo, a
 ecologia estuda as interrelações dos seres vivos uns com os outros e com
 o meio ambiente. Pode-se dizer que o conhecimento da Ecologia é uma
@@ -125,6 +122,7 @@ questão de sobrevivência para o Planeta.
 A palavra Biosfera foi utilizada pela primeira vez em 1875, pelo geólogo
 austríaco, Eduardo Sness. Entretanto, esta palavra somente passou a ter um
 sentido científico, em 1926, com a publicação de duas conferências, sob o título
+
 La Biosphère, do cientista mineralogista russo Vladimir Ivanovith.
 Com base nestes conhecimentos definiu-se a Biosfera como a parte da terra
 onde existe vida. Esta definição, um tanto simples, originou imediatamente
@@ -150,11 +148,10 @@ forma geral, a Biosfera, em seus pontos mais espessos, não vai muito além dos
 de 15km, constituindo uma capa muito fina em torno do planeta de quase 13.000
 km de diâmetro.
 
-
-Figura 2 - Biosfera
+.Biosfera
+image::{img}/fig2.jpg[]
 
 === Divisão da Biosfera
-
 
 Como finalidade didática, a biosfera é composta por litosfera,
 hidrosfera e atmosfera.
@@ -180,4 +177,3 @@ locomover-se, apoiados nela, por meio do vôo e seus meios locomotores
 típicos, que são as asas. Nela existem também importantes meios de
 dispersão de sementes e grãos de pólen de muitas plantas, assim como
 de células reprodutoras de micro-organismos.
-
